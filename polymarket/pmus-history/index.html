@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--
+    Strict CSP: only our own script/style files run, and the page can only talk to
+    the Polymarket US API or a proxy on localhost. Edit connect-src if you change the proxy port.
+  -->
+  <meta http-equiv="Content-Security-Policy"
+        content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src https://api.polymarket.us http://localhost:8787 http://127.0.0.1:8787; base-uri 'none'; form-action 'none'">
+  <meta name="referrer" content="no-referrer">
+  <title>Polymarket US — Activity History</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Polymarket US activity history</h1>
+    <p class="sub">Your key stays on this device. Requests are signed locally and sent straight to the API.</p>
+  </header>
+
+  <main>
+    <section id="unsupported" class="card warn" hidden>
+      <h2>Browser not supported</h2>
+      <p>This browser doesn't support Ed25519 in WebCrypto. Use a current version of Chrome, Edge, Firefox or Safari.</p>
+    </section>
+
+    <section id="main" class="card">
+      <h2>Download your activity history</h2>
+      <p class="muted">Create a new API key at <a href="https://polymarket.us/developer" target="_blank" rel="noopener noreferrer">polymarket.us/developer</a>. Consider making a dedicated key for this app so you can revoke it independently. Copy your Key ID and Secret Key, making sure to store them in a secure location.
+
+        To access your data, paste your Key ID and Secret Key below. We will NEVER store your key: it is discarded after the download finishes, or whenever you close the page.
+      </p>
+      <form id="fetch-form" autocomplete="off">
+        <label>Key ID
+          <input id="key-id" type="text" spellcheck="false" autocomplete="off" autocapitalize="off" data-1p-ignore data-lpignore="true" data-bwignore data-form-type="other" placeholder="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" required>
+        </label>
+        <label>Secret Key
+          <!-- type="text" + CSS masking so browsers and password managers don't offer to save it -->
+          <input id="secret" class="masked" type="text" spellcheck="false" autocomplete="off" autocapitalize="off" data-1p-ignore data-lpignore="true" data-bwignore data-form-type="other" placeholder="Base64 secret from the developer portal" required>
+        </label>
+        <div class="row">
+          <button id="fetch" type="submit">Access my data</button>
+          <button id="stop" type="button" class="secondary" hidden>Stop</button>
+        </div>
+      </form>
+      <p class="muted small">Your key is never saved. It is turned into a non-extractable WebCrypto key in memory, used to sign requests, and discarded when the download finishes or you close the page.</p>
+    </section>
+
+    <section id="results" class="card" hidden>
+      <div class="row between">
+        <h2 id="results-title">Results</h2>
+        <div class="row">
+          <button id="export-json" type="button" class="secondary">Download JSON</button>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th>Time</th><th>Type</th><th>Market</th><th>Details</th><th class="num">Amount</th><th class="num">Realized P&amp;L</th><th>Status</th></tr>
+          </thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Log</h2>
+      <ol id="log" class="log"></ol>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

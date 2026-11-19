@@ -1,0 +1,2967 @@
+[
+  {
+    "type": "ACTIVITY_TYPE_POSITION_RESOLUTION",
+    "positionResolution": {
+      "marketSlug": "aec-wta-alitub-biaand-2026-11-06",
+      "beforePosition": {
+        "netPosition": "-5",
+        "qtyBought": "0",
+        "qtySold": "5",
+        "cost": {
+          "value": "4.9980",
+          "currency": "USD"
+        },
+        "realized": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "bodPosition": "0",
+        "expired": false,
+        "updateTime": "2026-11-06T22:07:23.356205439Z",
+        "marketMetadata": {
+          "slug": "aec-wta-alitub-biaand-2026-11-06",
+          "icon": "",
+          "title": "Alice Tubello vs. Bianca Andreescu",
+          "outcome": "Bianca Andreescu",
+          "eventSlug": "wta-alitub-biaand-2026-11-06",
+          "teamId": 4655,
+          "team": {
+            "id": 4655,
+            "name": "Bianca Andreescu",
+            "abbreviation": "biaand",
+            "league": "wta",
+            "record": "",
+            "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+            "alias": "Bianca Andreescu",
+            "safeName": "Bianca Andreescu",
+            "colorPrimary": "#EF0000",
+            "ordering": "home",
+            "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+            "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+            "displayAbbreviation": "Andreescu",
+            "ranking": "77",
+            "providerIds": [
+              {
+                "provider": "PROVIDER_ENETPULSE",
+                "providerId": "664250"
+              },
+              {
+                "provider": "PROVIDER_SPORTRADAR",
+                "providerId": "sr:competitor:217912"
+              }
+            ],
+            "color": {
+              "light": "#EF0000",
+              "dark": "#EF0000"
+            }
+          },
+          "eventId": "235996"
+        },
+        "cashValue": {
+          "value": "5.24",
+          "currency": "USD"
+        },
+        "avgPx": {
+          "value": "0.9500",
+          "currency": "USD"
+        },
+        "fees": {
+          "value": "0.0200",
+          "currency": "USD"
+        },
+        "baseCost": {
+          "value": "4.9780",
+          "currency": "USD"
+        },
+        "costPerShare": null,
+        "netPositionDecimal": "-5.2400",
+        "qtyBoughtDecimal": "0.0000",
+        "qtySoldDecimal": "5.2400",
+        "bodPositionDecimal": "0.0000",
+        "comboLegDetails": [],
+        "positionId": ""
+      },
+      "afterPosition": {
+        "netPosition": "0",
+        "qtyBought": "5",
+        "qtySold": "5",
+        "cost": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "realized": {
+          "value": "0.2620",
+          "currency": "USD"
+        },
+        "bodPosition": "0",
+        "expired": false,
+        "updateTime": "2026-11-07T15:18:37.103627203Z",
+        "marketMetadata": {
+          "slug": "aec-wta-alitub-biaand-2026-11-06",
+          "icon": "",
+          "title": "Alice Tubello vs. Bianca Andreescu",
+          "outcome": "None",
+          "eventSlug": "wta-alitub-biaand-2026-11-06",
+          "eventId": "235996"
+        },
+        "cashValue": {
+          "value": "0",
+          "currency": "USD"
+        },
+        "avgPx": null,
+        "fees": null,
+        "baseCost": null,
+        "costPerShare": null,
+        "netPositionDecimal": "0.0000",
+        "qtyBoughtDecimal": "5.2400",
+        "qtySoldDecimal": "5.2400",
+        "bodPositionDecimal": "0.0000",
+        "comboLegDetails": [],
+        "positionId": ""
+      },
+      "updateTime": "2026-11-07T15:18:37.103627203Z",
+      "tradeId": "",
+      "side": "POSITION_RESOLUTION_SIDE_SHORT",
+      "market": {
+        "id": "2216203",
+        "question": "Who will win in the upcoming wta event Alice Tubello vs Bianca Andreescu scheduled for November 6, 2026 at 4:00 PM UTC?",
+        "slug": "aec-wta-alitub-biaand-2026-11-06",
+        "endDate": "2026-11-07T15:18:32Z",
+        "category": "sports",
+        "startDate": "2026-11-06T00:15:19Z",
+        "description": "This market will settle to the winner of the Alice Tubello vs Bianca Andreescu WTA match scheduled for November 6, 2026 at 11:00AM ET (as of the listing of the event's first instrument). If the match does not begin due to a walkover, withdrawal, or cancellation, the market will settle to the last fair market price. If a player retires or is disqualified during the match, the market will settle to the official winner of the match. If the match is delayed, postponed, suspended or otherwise rescheduled to a date and time not within two days of the originally scheduled date and time, the market will settle to the last fair market price. Outcome sourced from WTA.",
+        "active": false,
+        "marketType": "moneyline",
+        "closed": true,
+        "createdAt": "2026-11-06T00:15:19Z",
+        "updatedAt": "2026-11-09T20:44:49Z",
+        "archived": false,
+        "orderPriceMinTickSize": 0.01,
+        "gameStartTime": "2026-11-06T20:10:00Z",
+        "manualActivation": false,
+        "sportsMarketType": "tennis_match_winner",
+        "marketSides": [
+          {
+            "id": "4431856",
+            "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+            "identifier": "aec-wta-alitub-biaand-2026-11-06",
+            "createdAt": "2026-11-06T00:15:19Z",
+            "updatedAt": "2026-11-06T00:15:19Z",
+            "description": "Alice Tubello",
+            "price": "0",
+            "marketId": 2216203,
+            "long": true,
+            "teamId": 5383,
+            "team": {
+              "id": 5383,
+              "name": "Alice Tubello",
+              "abbreviation": "alitub",
+              "league": "wta",
+              "record": "",
+              "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+              "alias": "Alice Tubello",
+              "safeName": "Alice Tubello",
+              "colorPrimary": "#002395",
+              "ordering": "home",
+              "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+              "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+              "displayAbbreviation": "Tubello",
+              "ranking": "139",
+              "providerIds": [
+                {
+                  "provider": "PROVIDER_ENETPULSE",
+                  "providerId": "861961"
+                },
+                {
+                  "provider": "PROVIDER_SPORTRADAR",
+                  "providerId": "sr:competitor:227490"
+                }
+              ],
+              "longIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+              "shortIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+              "color": {
+                "light": "#002395",
+                "dark": "#002395"
+              },
+              "imageDisplayType": "IMAGE_DISPLAY_TYPE_FLAG"
+            },
+            "tradable": true
+          },
+          {
+            "id": "4431857",
+            "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+            "identifier": "aec-wta-alitub-biaand-2026-11-06",
+            "createdAt": "2026-11-06T00:15:19Z",
+            "updatedAt": "2026-11-06T00:15:19Z",
+            "description": "Bianca Andreescu",
+            "price": "1",
+            "marketId": 2216203,
+            "long": false,
+            "teamId": 4655,
+            "team": {
+              "id": 4655,
+              "name": "Bianca Andreescu",
+              "abbreviation": "biaand",
+              "league": "wta",
+              "record": "",
+              "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+              "alias": "Bianca Andreescu",
+              "safeName": "Bianca Andreescu",
+              "colorPrimary": "#EF0000",
+              "ordering": "away",
+              "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+              "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+              "displayAbbreviation": "Andreescu",
+              "ranking": "77",
+              "providerIds": [
+                {
+                  "provider": "PROVIDER_ENETPULSE",
+                  "providerId": "664250"
+                },
+                {
+                  "provider": "PROVIDER_SPORTRADAR",
+                  "providerId": "sr:competitor:217912"
+                }
+              ],
+              "longIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+              "shortIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+              "color": {
+                "light": "#EF0000",
+                "dark": "#EF0000"
+              },
+              "imageDisplayType": "IMAGE_DISPLAY_TYPE_FLAG"
+            },
+            "tradable": true
+          }
+        ],
+        "outcomes": "[\"Alice Tubello\",\"Bianca Andreescu\"]",
+        "outcomePrices": "[\"0\",\"1\"]",
+        "ep3Status": "EXPIRED",
+        "status": "MARKET_STATUS_RESOLVED",
+        "assetPriceTerms": null,
+        "sportsMarketTypeV2": "SPORTS_MARKET_TYPE_MONEYLINE",
+        "hidden": false,
+        "tags": [],
+        "feeCoefficient": 0.095,
+        "ep3SyncedAt": "2026-11-09T20:44:49Z",
+        "minimumTradeQty": 0.01,
+        "comboEnabled": true,
+        "politics": null,
+        "eventSubcategory": "WTA"
+      },
+      "comboLegDetails": []
+    }
+  },
+  {
+    "type": "ACTIVITY_TYPE_POSITION_RESOLUTION",
+    "positionResolution": {
+      "marketSlug": "crossd-e05c91ddcd5a66f6",
+      "beforePosition": {
+        "netPosition": "68",
+        "qtyBought": "68",
+        "qtySold": "0",
+        "cost": {
+          "value": "8.0000",
+          "currency": "USD"
+        },
+        "realized": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "bodPosition": "0",
+        "expired": false,
+        "updateTime": "2026-11-06T22:08:05.410413650Z",
+        "marketMetadata": {
+          "slug": "crossd-e05c91ddcd5a66f6",
+          "icon": "",
+          "title": "",
+          "outcome": "",
+          "eventSlug": "",
+          "eventId": ""
+        },
+        "cashValue": {
+          "value": "0",
+          "currency": "USD"
+        },
+        "avgPx": {
+          "value": "0.1050",
+          "currency": "USD"
+        },
+        "fees": {
+          "value": "0.8400",
+          "currency": "USD"
+        },
+        "baseCost": {
+          "value": "7.1600",
+          "currency": "USD"
+        },
+        "costPerShare": null,
+        "netPositionDecimal": "68.1900",
+        "qtyBoughtDecimal": "68.1900",
+        "qtySoldDecimal": "0.0000",
+        "bodPositionDecimal": "0.0000",
+        "comboLegDetails": [],
+        "positionId": ""
+      },
+      "afterPosition": {
+        "netPosition": "0",
+        "qtyBought": "68",
+        "qtySold": "68",
+        "cost": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "realized": {
+          "value": "-7.1600",
+          "currency": "USD"
+        },
+        "bodPosition": "0",
+        "expired": false,
+        "updateTime": "2026-11-06T23:14:15.691262860Z",
+        "marketMetadata": {
+          "slug": "crossd-e05c91ddcd5a66f6",
+          "icon": "",
+          "title": "",
+          "outcome": "None",
+          "eventSlug": "",
+          "eventId": ""
+        },
+        "cashValue": {
+          "value": "0",
+          "currency": "USD"
+        },
+        "avgPx": null,
+        "fees": null,
+        "baseCost": null,
+        "costPerShare": null,
+        "netPositionDecimal": "0.0000",
+        "qtyBoughtDecimal": "68.1900",
+        "qtySoldDecimal": "68.1900",
+        "bodPositionDecimal": "0.0000",
+        "comboLegDetails": [],
+        "positionId": ""
+      },
+      "updateTime": "2026-11-06T23:14:15.691262860Z",
+      "tradeId": "",
+      "side": "POSITION_RESOLUTION_SIDE_SHORT",
+      "market": {
+        "id": "",
+        "slug": "crossd-e05c91ddcd5a66f6",
+        "marketSides": [
+          {
+            "id": "",
+            "marketSideType": "MARKET_SIDE_TYPE_UNSPECIFIED",
+            "description": "Yes",
+            "price": "0",
+            "marketId": 0,
+            "long": true
+          },
+          {
+            "id": "",
+            "marketSideType": "MARKET_SIDE_TYPE_UNSPECIFIED",
+            "description": "No",
+            "price": "1",
+            "marketId": 0,
+            "long": false
+          }
+        ],
+        "outcomePrices": "[\"0\",\"1\"]",
+        "status": "MARKET_STATUS_RESOLVED",
+        "assetPriceTerms": null,
+        "tags": [],
+        "politics": null
+      },
+      "comboLegDetails": [
+        {
+          "slug": "aec-cbb-umass-boscol-2026-11-06",
+          "icon": "",
+          "title": "UMass vs. Boston College",
+          "outcome": "Minutemen",
+          "eventSlug": "cbb-umass-boscol-2026-11-06",
+          "teamId": 1714,
+          "team": {
+            "id": 1714,
+            "name": "UMass",
+            "abbreviation": "umass",
+            "league": "cbb",
+            "record": "17-16",
+            "logo": "",
+            "alias": "Minutemen",
+            "safeName": "UMass",
+            "colorPrimary": "#881C1C",
+            "providerId": 55,
+            "ordering": "away",
+            "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_L%40320x320.png",
+            "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_R%40320x320.png",
+            "displayAbbreviation": "UMASS",
+            "conference": "Mid-American",
+            "providerIds": [
+              {
+                "provider": "PROVIDER_SPORTSDATAIO",
+                "providerId": "55"
+              },
+              {
+                "provider": "PROVIDER_SPORTRADAR",
+                "providerId": "88104678-e53b-43b3-82f7-efb3a11cedb9"
+              },
+              {
+                "provider": "PROVIDER_OPTICODDS",
+                "providerId": "929E0919EF1C"
+              }
+            ],
+            "longIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_L%40320x320.png",
+            "shortIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_R%40320x320.png",
+            "color": {
+              "light": "#6D0009",
+              "dark": "#A8390B"
+            },
+            "imageDisplayType": "IMAGE_DISPLAY_TYPE_LOGO"
+          },
+          "eventId": "202992",
+          "outcomeSide": "OUTCOME_SIDE_YES",
+          "eventGroupTitle": "CBB",
+          "eventStartTime": "2026-11-06T21:00:00Z",
+          "live": false,
+          "indicativePrice": {
+            "value": "0.0100",
+            "currency": "USD"
+          },
+          "settlement": {
+            "settlementPrice": {
+              "value": "0.0000",
+              "currency": "USD"
+            },
+            "settlementSetTime": "2026-11-06T23:14:07.184912545Z"
+          },
+          "state": "COMBO_LEG_STATE_LOST",
+          "pick": "",
+          "label": "",
+          "showNoBadge": false
+        },
+        {
+          "slug": "aec-testcr-afg-zim-2026-11-05",
+          "icon": "",
+          "title": "Afghanistan vs. Zimbabwe",
+          "outcome": "Afghanistan",
+          "eventSlug": "testcr-afg-zim-2026-11-05",
+          "teamId": 39755,
+          "team": {
+            "id": 39755,
+            "name": "Afghanistan",
+            "abbreviation": "afg",
+            "league": "testcr",
+            "record": "",
+            "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/AFG.png",
+            "alias": "Afghanistan",
+            "safeName": "Afghanistan",
+            "colorPrimary": "#000000",
+            "ordering": "home",
+            "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/AFG.png",
+            "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/AFG.png",
+            "displayAbbreviation": "AFG",
+            "providerIds": [
+              {
+                "provider": "PROVIDER_ODDSPAPI",
+                "providerId": "142688"
+              }
+            ],
+            "longIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/AFG.png",
+            "shortIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/AFG.png",
+            "color": {
+              "light": "#000000",
+              "dark": "#606060"
+            },
+            "imageDisplayType": "IMAGE_DISPLAY_TYPE_FLAG"
+          },
+          "eventId": "225452",
+          "outcomeSide": "OUTCOME_SIDE_YES",
+          "eventGroupTitle": "Test Intl",
+          "eventStartTime": "2026-11-05T06:00:00Z",
+          "live": false,
+          "indicativePrice": {
+            "value": "0.5100",
+            "currency": "USD"
+          },
+          "settlement": {
+            "settlementPrice": {
+              "value": "0.5000",
+              "currency": "USD"
+            },
+            "settlementSetTime": "2026-11-09T14:42:37.752733590Z"
+          },
+          "state": "COMBO_LEG_STATE_INDETERMINATE",
+          "pick": "",
+          "label": "",
+          "showNoBadge": false
+        },
+        {
+          "slug": "aec-utr-canege-globre-2026-11-02",
+          "icon": "",
+          "title": "Umit Ege Cankus vs. Brett Gloria",
+          "outcome": "Cankus, Umit Ege",
+          "eventSlug": "utr-canege-globre-2026-11-02",
+          "teamId": 43730,
+          "team": {
+            "id": 43730,
+            "name": "Cankus, Umit Ege",
+            "abbreviation": "canege",
+            "league": "utr",
+            "record": "",
+            "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/TUR.png",
+            "alias": "Cankus, Umit Ege",
+            "safeName": "Cankus, Umit Ege",
+            "colorPrimary": "#E30A17",
+            "ordering": "home",
+            "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/TUR.png",
+            "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/TUR.png",
+            "displayAbbreviation": "Cankus",
+            "providerIds": [
+              {
+                "provider": "PROVIDER_SPORTRADAR",
+                "providerId": "sr:competitor:291032"
+              }
+            ],
+            "longIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/TUR.png",
+            "shortIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/TUR.png",
+            "color": {
+              "light": "#EC2122",
+              "dark": "#E30A17"
+            },
+            "imageDisplayType": "IMAGE_DISPLAY_TYPE_FLAG"
+          },
+          "eventId": "213938",
+          "outcomeSide": "OUTCOME_SIDE_YES",
+          "eventGroupTitle": "UTR",
+          "eventStartTime": "2026-11-06T19:30:00Z",
+          "live": false,
+          "indicativePrice": {
+            "value": "0.9900",
+            "currency": "USD"
+          },
+          "settlement": {
+            "settlementPrice": {
+              "value": "1.0000",
+              "currency": "USD"
+            },
+            "settlementSetTime": "2026-11-06T22:43:31.980410984Z"
+          },
+          "state": "COMBO_LEG_STATE_WON",
+          "pick": "",
+          "label": "",
+          "showNoBadge": false
+        }
+      ]
+    }
+  },
+  {
+    "type": "ACTIVITY_TYPE_POSITION_RESOLUTION",
+    "positionResolution": {
+      "marketSlug": "aec-cbb-umass-boscol-2026-11-06",
+      "beforePosition": {
+        "netPosition": "14",
+        "qtyBought": "14",
+        "qtySold": "0",
+        "cost": {
+          "value": "4.9192",
+          "currency": "USD"
+        },
+        "realized": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "bodPosition": "0",
+        "expired": false,
+        "updateTime": "2026-11-06T22:07:29.388128242Z",
+        "marketMetadata": {
+          "slug": "aec-cbb-umass-boscol-2026-11-06",
+          "icon": "",
+          "title": "UMass vs. Boston College",
+          "outcome": "Minutemen",
+          "eventSlug": "cbb-umass-boscol-2026-11-06",
+          "teamId": 1714,
+          "team": {
+            "id": 1714,
+            "name": "UMass",
+            "abbreviation": "umass",
+            "league": "cbb",
+            "record": "17-16",
+            "logo": "",
+            "alias": "Minutemen",
+            "safeName": "UMass",
+            "colorPrimary": "#881C1C",
+            "providerId": 55,
+            "ordering": "away",
+            "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_L%40320x320.png",
+            "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_R%40320x320.png",
+            "displayAbbreviation": "UMASS",
+            "conference": "Mid-American",
+            "providerIds": [
+              {
+                "provider": "PROVIDER_SPORTSDATAIO",
+                "providerId": "55"
+              },
+              {
+                "provider": "PROVIDER_SPORTRADAR",
+                "providerId": "88104678-e53b-43b3-82f7-efb3a11cedb9"
+              },
+              {
+                "provider": "PROVIDER_OPTICODDS",
+                "providerId": "929E0919EF1C"
+              }
+            ],
+            "color": {
+              "light": "#881C1C",
+              "dark": "#881C1C"
+            }
+          },
+          "eventId": "202992"
+        },
+        "cashValue": {
+          "value": "0",
+          "currency": "USD"
+        },
+        "avgPx": {
+          "value": "0.3300",
+          "currency": "USD"
+        },
+        "fees": {
+          "value": "0.2200",
+          "currency": "USD"
+        },
+        "baseCost": {
+          "value": "4.6992",
+          "currency": "USD"
+        },
+        "costPerShare": null,
+        "netPositionDecimal": "14.2400",
+        "qtyBoughtDecimal": "14.2400",
+        "qtySoldDecimal": "0.0000",
+        "bodPositionDecimal": "0.0000",
+        "comboLegDetails": [],
+        "positionId": ""
+      },
+      "afterPosition": {
+        "netPosition": "0",
+        "qtyBought": "14",
+        "qtySold": "14",
+        "cost": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "realized": {
+          "value": "-4.6992",
+          "currency": "USD"
+        },
+        "bodPosition": "0",
+        "expired": false,
+        "updateTime": "2026-11-06T23:14:07.219729797Z",
+        "marketMetadata": {
+          "slug": "aec-cbb-umass-boscol-2026-11-06",
+          "icon": "",
+          "title": "UMass vs. Boston College",
+          "outcome": "None",
+          "eventSlug": "cbb-umass-boscol-2026-11-06",
+          "eventId": "202992"
+        },
+        "cashValue": {
+          "value": "0",
+          "currency": "USD"
+        },
+        "avgPx": null,
+        "fees": null,
+        "baseCost": null,
+        "costPerShare": null,
+        "netPositionDecimal": "0.0000",
+        "qtyBoughtDecimal": "14.2400",
+        "qtySoldDecimal": "14.2400",
+        "bodPositionDecimal": "0.0000",
+        "comboLegDetails": [],
+        "positionId": ""
+      },
+      "updateTime": "2026-11-06T23:14:07.219729797Z",
+      "tradeId": "",
+      "side": "POSITION_RESOLUTION_SIDE_SHORT",
+      "market": {
+        "id": "1913818",
+        "question": "Who will win in the upcoming basketball event UMass vs Boston College scheduled for November 6, 2026 at 4:00PM ET?",
+        "slug": "aec-cbb-umass-boscol-2026-11-06",
+        "endDate": "2026-11-06T23:14:01Z",
+        "category": "sports",
+        "startDate": "2026-10-28T18:34:07Z",
+        "description": "This market will settle to the winner of the UMass vs Boston College men's college basketball game scheduled for November 6, 2026 at 4:00PM ET (as of the listing of the event's first instrument). Overtime is included if played. If the game is delayed, postponed, suspended or otherwise rescheduled to a date and time not within two days of the originally scheduled date and time, the market will settle to the last fair market price. Outcome sourced from the relevant governing body.",
+        "active": false,
+        "marketType": "moneyline",
+        "closed": true,
+        "createdAt": "2026-10-28T18:34:07Z",
+        "updatedAt": "2026-11-08T23:49:07Z",
+        "archived": false,
+        "orderPriceMinTickSize": 0.01,
+        "gameStartTime": "2026-11-06T21:00:00Z",
+        "manualActivation": false,
+        "sportsMarketType": "basketball_team_full_game_winner",
+        "marketSides": [
+          {
+            "id": "3827098",
+            "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+            "identifier": "aec-cbb-umass-boscol-2026-11-06",
+            "createdAt": "2026-10-28T18:34:07Z",
+            "updatedAt": "2026-10-28T18:34:07Z",
+            "description": "Minutemen",
+            "price": "0",
+            "marketId": 1913818,
+            "long": true,
+            "teamId": 1714,
+            "team": {
+              "id": 1714,
+              "name": "UMass",
+              "abbreviation": "umass",
+              "league": "cbb",
+              "record": "17-16",
+              "logo": "",
+              "alias": "Minutemen",
+              "safeName": "UMass",
+              "colorPrimary": "#881C1C",
+              "providerId": 55,
+              "ordering": "away",
+              "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_L%40320x320.png",
+              "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_R%40320x320.png",
+              "displayAbbreviation": "UMASS",
+              "conference": "Mid-American",
+              "providerIds": [
+                {
+                  "provider": "PROVIDER_SPORTSDATAIO",
+                  "providerId": "55"
+                },
+                {
+                  "provider": "PROVIDER_SPORTRADAR",
+                  "providerId": "88104678-e53b-43b3-82f7-efb3a11cedb9"
+                },
+                {
+                  "provider": "PROVIDER_OPTICODDS",
+                  "providerId": "929E0919EF1C"
+                }
+              ],
+              "longIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_L%40320x320.png",
+              "shortIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_R%40320x320.png",
+              "color": {
+                "light": "#881C1C",
+                "dark": "#881C1C"
+              },
+              "imageDisplayType": "IMAGE_DISPLAY_TYPE_LOGO"
+            },
+            "tradable": true
+          },
+          {
+            "id": "3827099",
+            "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+            "identifier": "aec-cbb-umass-boscol-2026-11-06",
+            "createdAt": "2026-10-28T18:34:07Z",
+            "updatedAt": "2026-10-28T18:34:07Z",
+            "description": "Eagles",
+            "price": "1",
+            "marketId": 1913818,
+            "long": false,
+            "teamId": 1694,
+            "team": {
+              "id": 1694,
+              "name": "Boston College",
+              "abbreviation": "boscol",
+              "league": "cbb",
+              "record": "11-20",
+              "logo": "",
+              "alias": "Eagles",
+              "safeName": "Boston College",
+              "colorPrimary": "#8B2332",
+              "providerId": 35,
+              "ordering": "home",
+              "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_BOSCOL_L%40320x320.png",
+              "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_BOSCOL_R%40320x320.png",
+              "displayAbbreviation": "BC",
+              "conference": "Atlantic Coast",
+              "providerIds": [
+                {
+                  "provider": "PROVIDER_SPORTSDATAIO",
+                  "providerId": "35"
+                },
+                {
+                  "provider": "PROVIDER_SPORTRADAR",
+                  "providerId": "4b3ff02c-e0ba-435b-a565-6075bc491684"
+                },
+                {
+                  "provider": "PROVIDER_OPTICODDS",
+                  "providerId": "5B760D645796"
+                }
+              ],
+              "longIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_BOSCOL_L%40320x320.png",
+              "shortIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_BOSCOL_R%40320x320.png",
+              "color": {
+                "light": "#8B2332",
+                "dark": "#8B2332"
+              },
+              "imageDisplayType": "IMAGE_DISPLAY_TYPE_LOGO"
+            },
+            "tradable": true
+          }
+        ],
+        "outcomes": "[\"Minutemen\",\"Eagles\"]",
+        "outcomePrices": "[\"0\",\"1\"]",
+        "ep3Status": "EXPIRED",
+        "status": "MARKET_STATUS_RESOLVED",
+        "assetPriceTerms": null,
+        "sportsMarketTypeV2": "SPORTS_MARKET_TYPE_MONEYLINE",
+        "hidden": false,
+        "tags": [],
+        "feeCoefficient": 0.095,
+        "ep3SyncedAt": "2026-11-08T23:49:07Z",
+        "minimumTradeQty": 0.01,
+        "comboEnabled": true,
+        "politics": null,
+        "eventSubcategory": "BASKETBALL",
+        "singlesRfqConfig": {
+          "enabled": false,
+          "midpointDeviation": 0,
+          "minOrderValueUsd": 0,
+          "maxQuoteAgeSeconds": 0,
+          "quoteWindows": [],
+          "ruleName": "default",
+          "version": "singles-half-markets-v2"
+        }
+      },
+      "comboLegDetails": []
+    }
+  },
+  {
+    "type": "ACTIVITY_TYPE_POSITION_RESOLUTION",
+    "positionResolution": {
+      "marketSlug": "atc-ligpor-fam-aro-2026-11-06-draw",
+      "beforePosition": {
+        "netPosition": "5",
+        "qtyBought": "5",
+        "qtySold": "0",
+        "cost": {
+          "value": "2.7900",
+          "currency": "USD"
+        },
+        "realized": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "bodPosition": "0",
+        "expired": false,
+        "updateTime": "2026-11-06T22:09:42.102300320Z",
+        "marketMetadata": {
+          "slug": "atc-ligpor-fam-aro-2026-11-06-draw",
+          "icon": "",
+          "title": "FC Famalicao vs. FC Arouca",
+          "outcome": "Yes",
+          "eventSlug": "ligpor-fam-aro-2026-11-06",
+          "eventId": "209368"
+        },
+        "cashValue": {
+          "value": "0",
+          "currency": "USD"
+        },
+        "avgPx": {
+          "value": "0.5400",
+          "currency": "USD"
+        },
+        "fees": {
+          "value": "0.0900",
+          "currency": "USD"
+        },
+        "baseCost": {
+          "value": "2.7000",
+          "currency": "USD"
+        },
+        "costPerShare": null,
+        "netPositionDecimal": "5.0000",
+        "qtyBoughtDecimal": "5.0000",
+        "qtySoldDecimal": "0.0000",
+        "bodPositionDecimal": "0.0000",
+        "comboLegDetails": [],
+        "positionId": ""
+      },
+      "afterPosition": {
+        "netPosition": "0",
+        "qtyBought": "5",
+        "qtySold": "5",
+        "cost": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "realized": {
+          "value": "-2.7000",
+          "currency": "USD"
+        },
+        "bodPosition": "0",
+        "expired": false,
+        "updateTime": "2026-11-06T22:49:42.020152480Z",
+        "marketMetadata": {
+          "slug": "atc-ligpor-fam-aro-2026-11-06-draw",
+          "icon": "",
+          "title": "FC Famalicao vs. FC Arouca",
+          "outcome": "None",
+          "eventSlug": "ligpor-fam-aro-2026-11-06",
+          "eventId": "209368"
+        },
+        "cashValue": {
+          "value": "0",
+          "currency": "USD"
+        },
+        "avgPx": null,
+        "fees": null,
+        "baseCost": null,
+        "costPerShare": null,
+        "netPositionDecimal": "0.0000",
+        "qtyBoughtDecimal": "5.0000",
+        "qtySoldDecimal": "5.0000",
+        "bodPositionDecimal": "0.0000",
+        "comboLegDetails": [],
+        "positionId": ""
+      },
+      "updateTime": "2026-11-06T22:49:42.020152480Z",
+      "tradeId": "",
+      "side": "POSITION_RESOLUTION_SIDE_SHORT",
+      "market": {
+        "id": "1964472",
+        "question": "Will the Liga Portugal match FC Famalicao vs FC Arouca scheduled for Nov 6, 2026 end in a draw?",
+        "slug": "atc-ligpor-fam-aro-2026-11-06-draw",
+        "endDate": "2026-11-06T22:49:37Z",
+        "category": "sports",
+        "startDate": "2026-10-30T06:31:06Z",
+        "description": "This market will settle to the winner at the end of 90 minutes plus stoppage time in the FC Famalicao vs FC Arouca Liga Portugal match scheduled for November 6, 2026 at 3:45PM ET (as of the listing of the event's first instrument). If the match is tied following 90 minutes plus stoppage time, the market will settle to Tie. If the match is delayed, postponed, suspended or otherwise rescheduled to a date and time not within two days of the originally scheduled date and time, the market will settle to the last fair market price. Outcome sourced from Liga Portugal.",
+        "active": false,
+        "marketType": "drawable_outcome",
+        "closed": true,
+        "createdAt": "2026-10-30T06:31:06Z",
+        "updatedAt": "2026-11-08T23:54:56Z",
+        "archived": false,
+        "orderPriceMinTickSize": 0.01,
+        "gameStartTime": "2026-11-06T20:45:00Z",
+        "manualActivation": false,
+        "sportsMarketType": "soccer_team_full_time_winner",
+        "marketSides": [
+          {
+            "id": "3928406",
+            "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+            "identifier": "atc-ligpor-fam-aro-2026-11-06-draw",
+            "createdAt": "2026-10-30T06:31:06Z",
+            "updatedAt": "2026-10-30T06:31:06Z",
+            "description": "Yes",
+            "price": "0",
+            "marketId": 1964472,
+            "long": true,
+            "tradable": true
+          },
+          {
+            "id": "3928407",
+            "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+            "identifier": "atc-ligpor-fam-aro-2026-11-06-draw",
+            "createdAt": "2026-10-30T06:31:06Z",
+            "updatedAt": "2026-10-30T06:31:06Z",
+            "description": "No",
+            "price": "1",
+            "marketId": 1964472,
+            "long": false,
+            "tradable": true
+          }
+        ],
+        "outcomes": "[\"Yes\",\"No\"]",
+        "outcomePrices": "[\"0\",\"1\"]",
+        "ep3Status": "EXPIRED",
+        "status": "MARKET_STATUS_RESOLVED",
+        "assetPriceTerms": null,
+        "sportsMarketTypeV2": "SPORTS_MARKET_TYPE_DRAWABLE_OUTCOME",
+        "hidden": false,
+        "tags": [],
+        "feeCoefficient": 0.095,
+        "sortOrder": 2,
+        "ep3SyncedAt": "2026-11-08T23:54:56Z",
+        "minimumTradeQty": 0.01,
+        "comboEnabled": true,
+        "politics": null,
+        "eventSubcategory": "SOCCER",
+        "singlesRfqConfig": {
+          "enabled": false,
+          "midpointDeviation": 0,
+          "minOrderValueUsd": 0,
+          "maxQuoteAgeSeconds": 0,
+          "quoteWindows": [],
+          "ruleName": "default",
+          "version": "singles-half-markets-v2"
+        }
+      },
+      "comboLegDetails": []
+    }
+  },
+  {
+    "type": "ACTIVITY_TYPE_TRADE",
+    "trade": {
+      "id": "DJEZSHNG13YJ",
+      "aggressorExecution": {
+        "id": "DJEZSHNG33YF",
+        "order": {
+          "id": "DJEZSHN014F1",
+          "marketSlug": "atc-ligpor-fam-aro-2026-11-06-draw",
+          "side": "ORDER_SIDE_BUY",
+          "type": "ORDER_TYPE_LIMIT",
+          "price": {
+            "value": "0.54",
+            "currency": "USD"
+          },
+          "quantity": 5,
+          "cumQuantity": 5,
+          "leavesQuantity": 0,
+          "tif": "TIME_IN_FORCE_GOOD_TILL_CANCEL",
+          "goodTillTime": null,
+          "intent": "ORDER_INTENT_BUY_LONG",
+          "marketMetadata": {
+            "slug": "atc-ligpor-fam-aro-2026-11-06-draw",
+            "icon": "",
+            "title": "FC Famalicao vs. FC Arouca",
+            "outcome": "Yes",
+            "eventSlug": "ligpor-fam-aro-2026-11-06",
+            "eventId": "209368"
+          },
+          "state": "ORDER_STATE_FILLED",
+          "commissionNotionalTotalCollected": {
+            "value": "0.0900",
+            "currency": "USD"
+          },
+          "commissionsBasisPoints": "0",
+          "makerCommissionsBasisPoints": "0",
+          "avgPx": {
+            "value": "0.5400",
+            "currency": "USD"
+          },
+          "cashOrderQty": {
+            "value": "0.0000",
+            "currency": "USD"
+          },
+          "insertTime": "2026-11-06T22:09:42.102300320Z",
+          "createTime": "2026-11-06T22:09:42.100997292Z",
+          "outcomeSide": "OUTCOME_SIDE_YES",
+          "action": "ORDER_ACTION_BUY",
+          "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_MANUAL",
+          "lastTransactTime": "2026-11-06T22:09:42.102300320Z",
+          "estimatedAmount": null,
+          "principal": null,
+          "estimatedCommission": null
+        },
+        "lastShares": "5.0000",
+        "lastPx": {
+          "value": "0.5400",
+          "currency": "USD"
+        },
+        "type": "EXECUTION_TYPE_FILL",
+        "text": "",
+        "orderRejectReason": "ORD_REJECT_REASON_EXCHANGE_OPTION",
+        "transactTime": "2026-11-06T22:09:42.102300320Z",
+        "legPrices": [],
+        "tradeId": "DJEZSHNG13YJ",
+        "aggressor": true,
+        "commissionNotionalCollected": {
+          "value": "0.0900",
+          "currency": "USD"
+        },
+        "unsolicitedCancelReason": "UNSOLICITED_CXL_REASON_UNDEFINED",
+        "traceId": "",
+        "commissionSpreadPx": {
+          "value": "0.5400",
+          "currency": "USD"
+        },
+        "transactTradeDate": "2026-11-07T00:00:00Z"
+      },
+      "passiveExecution": {
+        "id": "DJEZSHNG33YG",
+        "order": {
+          "id": "DJEZPW80941Q",
+          "marketSlug": "atc-ligpor-fam-aro-2026-11-06-draw",
+          "side": "ORDER_SIDE_SELL",
+          "type": "ORDER_TYPE_LIMIT",
+          "price": {
+            "value": "0.54",
+            "currency": "USD"
+          },
+          "quantity": 227,
+          "cumQuantity": 5,
+          "leavesQuantity": 222,
+          "tif": "TIME_IN_FORCE_DAY",
+          "goodTillTime": null,
+          "intent": "ORDER_INTENT_UNDEFINED",
+          "marketMetadata": {
+            "slug": "atc-ligpor-fam-aro-2026-11-06-draw",
+            "icon": "",
+            "title": "FC Famalicao vs. FC Arouca",
+            "outcome": "No",
+            "eventSlug": "ligpor-fam-aro-2026-11-06",
+            "eventId": "209368"
+          },
+          "state": "ORDER_STATE_PARTIALLY_FILLED",
+          "commissionNotionalTotalCollected": {
+            "value": "-0.0100",
+            "currency": "USD"
+          },
+          "commissionsBasisPoints": "0",
+          "makerCommissionsBasisPoints": "0",
+          "avgPx": {
+            "value": "0.5400",
+            "currency": "USD"
+          },
+          "cashOrderQty": {
+            "value": "0.0000",
+            "currency": "USD"
+          },
+          "insertTime": "2026-11-06T22:09:31.170689300Z",
+          "createTime": "2026-11-06T22:09:31.168998315Z",
+          "outcomeSide": "OUTCOME_SIDE_UNSPECIFIED",
+          "action": "ORDER_ACTION_UNSPECIFIED",
+          "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_UNDEFINED",
+          "lastTransactTime": "2026-11-06T22:09:42.102300320Z",
+          "estimatedAmount": null,
+          "principal": null,
+          "estimatedCommission": null
+        },
+        "lastShares": "5.0000",
+        "lastPx": {
+          "value": "0.5400",
+          "currency": "USD"
+        },
+        "type": "EXECUTION_TYPE_PARTIAL_FILL",
+        "text": "",
+        "orderRejectReason": "ORD_REJECT_REASON_EXCHANGE_OPTION",
+        "transactTime": "2026-11-06T22:09:42.102300320Z",
+        "legPrices": [],
+        "tradeId": "DJEZSHNG13YJ",
+        "aggressor": false,
+        "commissionNotionalCollected": {
+          "value": "-0.0100",
+          "currency": "USD"
+        },
+        "unsolicitedCancelReason": "UNSOLICITED_CXL_REASON_UNDEFINED",
+        "traceId": "",
+        "commissionSpreadPx": {
+          "value": "0.4600",
+          "currency": "USD"
+        },
+        "transactTradeDate": "2026-11-07T00:00:00Z"
+      },
+      "marketSlug": "atc-ligpor-fam-aro-2026-11-06-draw",
+      "state": "TRADE_STATE_NEW",
+      "createTime": "2026-11-06T22:09:42.102300320Z",
+      "updateTime": "2026-11-06T22:09:42.102300320Z",
+      "price": {
+        "value": "0.5400",
+        "currency": "USD"
+      },
+      "qty": "5",
+      "cost": {
+        "value": "2.79",
+        "currency": "USD"
+      },
+      "aggressor": {
+        "id": "DJEZSHN014F1",
+        "marketSlug": "atc-ligpor-fam-aro-2026-11-06-draw",
+        "side": "ORDER_SIDE_BUY",
+        "type": "ORDER_TYPE_LIMIT",
+        "price": {
+          "value": "0.54",
+          "currency": "USD"
+        },
+        "quantity": 5,
+        "cumQuantity": 5,
+        "leavesQuantity": 0,
+        "tif": "TIME_IN_FORCE_GOOD_TILL_CANCEL",
+        "goodTillTime": null,
+        "intent": "ORDER_INTENT_BUY_LONG",
+        "marketMetadata": {
+          "slug": "atc-ligpor-fam-aro-2026-11-06-draw",
+          "icon": "",
+          "title": "FC Famalicao vs. FC Arouca",
+          "outcome": "Yes",
+          "eventSlug": "ligpor-fam-aro-2026-11-06",
+          "eventId": "209368"
+        },
+        "state": "ORDER_STATE_FILLED",
+        "commissionNotionalTotalCollected": {
+          "value": "0.0900",
+          "currency": "USD"
+        },
+        "commissionsBasisPoints": "0",
+        "makerCommissionsBasisPoints": "0",
+        "avgPx": {
+          "value": "0.5400",
+          "currency": "USD"
+        },
+        "cashOrderQty": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "insertTime": "2026-11-06T22:09:42.102300320Z",
+        "createTime": "2026-11-06T22:09:42.100997292Z",
+        "outcomeSide": "OUTCOME_SIDE_YES",
+        "action": "ORDER_ACTION_BUY",
+        "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_MANUAL",
+        "lastTransactTime": "2026-11-06T22:09:42.102300320Z",
+        "estimatedAmount": null,
+        "principal": null,
+        "estimatedCommission": null
+      },
+      "passive": {
+        "id": "DJEZPW80941Q",
+        "marketSlug": "atc-ligpor-fam-aro-2026-11-06-draw",
+        "side": "ORDER_SIDE_SELL",
+        "type": "ORDER_TYPE_LIMIT",
+        "price": {
+          "value": "0.54",
+          "currency": "USD"
+        },
+        "quantity": 227,
+        "cumQuantity": 5,
+        "leavesQuantity": 222,
+        "tif": "TIME_IN_FORCE_DAY",
+        "goodTillTime": null,
+        "intent": "ORDER_INTENT_UNDEFINED",
+        "marketMetadata": {
+          "slug": "atc-ligpor-fam-aro-2026-11-06-draw",
+          "icon": "",
+          "title": "FC Famalicao vs. FC Arouca",
+          "outcome": "No",
+          "eventSlug": "ligpor-fam-aro-2026-11-06",
+          "eventId": "209368"
+        },
+        "state": "ORDER_STATE_PARTIALLY_FILLED",
+        "commissionNotionalTotalCollected": {
+          "value": "-0.0100",
+          "currency": "USD"
+        },
+        "commissionsBasisPoints": "0",
+        "makerCommissionsBasisPoints": "0",
+        "avgPx": {
+          "value": "0.5400",
+          "currency": "USD"
+        },
+        "cashOrderQty": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "insertTime": "2026-11-06T22:09:31.170689300Z",
+        "createTime": "2026-11-06T22:09:31.168998315Z",
+        "outcomeSide": "OUTCOME_SIDE_UNSPECIFIED",
+        "action": "ORDER_ACTION_UNSPECIFIED",
+        "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_UNDEFINED",
+        "lastTransactTime": "2026-11-06T22:09:42.102300320Z",
+        "estimatedAmount": null,
+        "principal": null,
+        "estimatedCommission": null
+      },
+      "reportingCounterparty": "ORDER_SIDE_UNDEFINED",
+      "createTradeDate": "2026-11-07T00:00:00Z",
+      "updateTradeDate": "2026-11-07T00:00:00Z",
+      "tradeLinkId": "DJEZSHTG13XZ",
+      "isAggressor": true,
+      "market": {
+        "id": "1964472",
+        "question": "Will the Liga Portugal match FC Famalicao vs FC Arouca scheduled for Nov 6, 2026 end in a draw?",
+        "slug": "atc-ligpor-fam-aro-2026-11-06-draw",
+        "endDate": "2026-11-06T22:49:37Z",
+        "category": "sports",
+        "startDate": "2026-10-30T06:31:06Z",
+        "description": "This market will settle to the winner at the end of 90 minutes plus stoppage time in the FC Famalicao vs FC Arouca Liga Portugal match scheduled for November 6, 2026 at 3:45PM ET (as of the listing of the event's first instrument). If the match is tied following 90 minutes plus stoppage time, the market will settle to Tie. If the match is delayed, postponed, suspended or otherwise rescheduled to a date and time not within two days of the originally scheduled date and time, the market will settle to the last fair market price. Outcome sourced from Liga Portugal.",
+        "active": false,
+        "marketType": "drawable_outcome",
+        "closed": true,
+        "createdAt": "2026-10-30T06:31:06Z",
+        "updatedAt": "2026-11-08T23:54:56Z",
+        "archived": false,
+        "orderPriceMinTickSize": 0.01,
+        "gameStartTime": "2026-11-06T20:45:00Z",
+        "manualActivation": false,
+        "sportsMarketType": "soccer_team_full_time_winner",
+        "marketSides": [
+          {
+            "id": "3928406",
+            "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+            "identifier": "atc-ligpor-fam-aro-2026-11-06-draw",
+            "createdAt": "2026-10-30T06:31:06Z",
+            "updatedAt": "2026-10-30T06:31:06Z",
+            "description": "Yes",
+            "price": "0",
+            "marketId": 1964472,
+            "long": true,
+            "tradable": true
+          },
+          {
+            "id": "3928407",
+            "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+            "identifier": "atc-ligpor-fam-aro-2026-11-06-draw",
+            "createdAt": "2026-10-30T06:31:06Z",
+            "updatedAt": "2026-10-30T06:31:06Z",
+            "description": "No",
+            "price": "1",
+            "marketId": 1964472,
+            "long": false,
+            "tradable": true
+          }
+        ],
+        "outcomes": "[\"Yes\",\"No\"]",
+        "outcomePrices": "[\"0\",\"1\"]",
+        "ep3Status": "EXPIRED",
+        "status": "MARKET_STATUS_RESOLVED",
+        "assetPriceTerms": null,
+        "sportsMarketTypeV2": "SPORTS_MARKET_TYPE_DRAWABLE_OUTCOME",
+        "hidden": false,
+        "tags": [],
+        "feeCoefficient": 0.095,
+        "sortOrder": 2,
+        "ep3SyncedAt": "2026-11-08T23:54:56Z",
+        "minimumTradeQty": 0.01,
+        "comboEnabled": true,
+        "politics": null,
+        "eventSubcategory": "SOCCER",
+        "singlesRfqConfig": {
+          "enabled": false,
+          "midpointDeviation": 0,
+          "minOrderValueUsd": 0,
+          "maxQuoteAgeSeconds": 0,
+          "quoteWindows": [],
+          "ruleName": "default",
+          "version": "singles-half-markets-v2"
+        }
+      },
+      "qtyDecimal": "5.0000",
+      "comboLegDetails": []
+    }
+  },
+  {
+    "type": "ACTIVITY_TYPE_TRADE",
+    "trade": {
+      "id": "DJEZ1Y8G53YH",
+      "aggressorExecution": {
+        "id": "DJEZ1Y8G53YJ",
+        "order": {
+          "id": "DJEZ1Y8013YB",
+          "marketSlug": "crossd-e05c91ddcd5a66f6",
+          "side": "ORDER_SIDE_BUY",
+          "type": "ORDER_TYPE_LIMIT",
+          "price": {
+            "value": "0.105",
+            "currency": "USD"
+          },
+          "quantity": 68.19,
+          "cumQuantity": 68.19,
+          "leavesQuantity": 0,
+          "tif": "TIME_IN_FORCE_IMMEDIATE_OR_CANCEL",
+          "goodTillTime": null,
+          "intent": "ORDER_INTENT_BUY_LONG",
+          "marketMetadata": {
+            "slug": "crossd-e05c91ddcd5a66f6",
+            "icon": "",
+            "title": "",
+            "outcome": "",
+            "eventSlug": "",
+            "eventId": ""
+          },
+          "state": "ORDER_STATE_FILLED",
+          "commissionNotionalTotalCollected": {
+            "value": "0.8400",
+            "currency": "USD"
+          },
+          "commissionsBasisPoints": "0",
+          "makerCommissionsBasisPoints": "0",
+          "avgPx": {
+            "value": "0.1050",
+            "currency": "USD"
+          },
+          "cashOrderQty": {
+            "value": "0.0000",
+            "currency": "USD"
+          },
+          "insertTime": "2026-11-06T22:08:05.410413650Z",
+          "createTime": "2026-11-06T22:08:05.408082445Z",
+          "outcomeSide": "OUTCOME_SIDE_YES",
+          "action": "ORDER_ACTION_BUY",
+          "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_UNDEFINED",
+          "lastTransactTime": "2026-11-06T22:08:05.410413650Z",
+          "estimatedAmount": null,
+          "principal": null,
+          "estimatedCommission": null
+        },
+        "lastShares": "68.1900",
+        "lastPx": {
+          "value": "0.1050",
+          "currency": "USD"
+        },
+        "type": "EXECUTION_TYPE_FILL",
+        "text": "",
+        "orderRejectReason": "ORD_REJECT_REASON_EXCHANGE_OPTION",
+        "transactTime": "2026-11-06T22:08:05.410413650Z",
+        "legPrices": [],
+        "tradeId": "DJEZ1Y8G53YH",
+        "aggressor": true,
+        "commissionNotionalCollected": {
+          "value": "0.8400",
+          "currency": "USD"
+        },
+        "unsolicitedCancelReason": "UNSOLICITED_CXL_REASON_UNDEFINED",
+        "traceId": "",
+        "commissionSpreadPx": {
+          "value": "0.1050",
+          "currency": "USD"
+        },
+        "transactTradeDate": "2026-11-07T00:00:00Z"
+      },
+      "passiveExecution": {
+        "id": "DJEZ1Y8G73YF",
+        "order": {
+          "id": "DJEZ1Y5G144P",
+          "marketSlug": "crossd-e05c91ddcd5a66f6",
+          "side": "ORDER_SIDE_SELL",
+          "type": "ORDER_TYPE_LIMIT",
+          "price": {
+            "value": "0.105",
+            "currency": "USD"
+          },
+          "quantity": 68.19,
+          "cumQuantity": 68.19,
+          "leavesQuantity": 0,
+          "tif": "TIME_IN_FORCE_GOOD_TILL_DATE",
+          "goodTillTime": "2026-11-06T22:08:10.364698726Z",
+          "intent": "ORDER_INTENT_SELL_LONG",
+          "marketMetadata": {
+            "slug": "crossd-e05c91ddcd5a66f6",
+            "icon": "",
+            "title": "",
+            "outcome": "",
+            "eventSlug": "",
+            "eventId": ""
+          },
+          "state": "ORDER_STATE_FILLED",
+          "commissionNotionalTotalCollected": {
+            "value": "0.0000",
+            "currency": "USD"
+          },
+          "commissionsBasisPoints": "0",
+          "makerCommissionsBasisPoints": "0",
+          "avgPx": {
+            "value": "0.1050",
+            "currency": "USD"
+          },
+          "cashOrderQty": {
+            "value": "0.0000",
+            "currency": "USD"
+          },
+          "insertTime": "2026-11-06T22:08:05.402422975Z",
+          "createTime": "2026-11-06T22:08:05.399879465Z",
+          "outcomeSide": "OUTCOME_SIDE_YES",
+          "action": "ORDER_ACTION_SELL",
+          "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_UNDEFINED",
+          "lastTransactTime": "2026-11-06T22:08:05.410413650Z",
+          "estimatedAmount": null,
+          "principal": null,
+          "estimatedCommission": null
+        },
+        "lastShares": "68.1900",
+        "lastPx": {
+          "value": "0.1050",
+          "currency": "USD"
+        },
+        "type": "EXECUTION_TYPE_FILL",
+        "text": "",
+        "orderRejectReason": "ORD_REJECT_REASON_EXCHANGE_OPTION",
+        "transactTime": "2026-11-06T22:08:05.410413650Z",
+        "legPrices": [],
+        "tradeId": "DJEZ1Y8G53YH",
+        "aggressor": false,
+        "commissionNotionalCollected": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "unsolicitedCancelReason": "UNSOLICITED_CXL_REASON_UNDEFINED",
+        "traceId": "",
+        "commissionSpreadPx": {
+          "value": "0.8950",
+          "currency": "USD"
+        },
+        "transactTradeDate": "2026-11-07T00:00:00Z"
+      },
+      "marketSlug": "crossd-e05c91ddcd5a66f6",
+      "state": "TRADE_STATE_NEW",
+      "createTime": "2026-11-06T22:08:05.410413650Z",
+      "updateTime": "2026-11-06T22:08:05.410413650Z",
+      "price": {
+        "value": "0.1050",
+        "currency": "USD"
+      },
+      "qty": "68",
+      "cost": {
+        "value": "7.99995",
+        "currency": "USD"
+      },
+      "aggressor": {
+        "id": "DJEZ1Y8013YB",
+        "marketSlug": "crossd-e05c91ddcd5a66f6",
+        "side": "ORDER_SIDE_BUY",
+        "type": "ORDER_TYPE_LIMIT",
+        "price": {
+          "value": "0.105",
+          "currency": "USD"
+        },
+        "quantity": 68.19,
+        "cumQuantity": 68.19,
+        "leavesQuantity": 0,
+        "tif": "TIME_IN_FORCE_IMMEDIATE_OR_CANCEL",
+        "goodTillTime": null,
+        "intent": "ORDER_INTENT_BUY_LONG",
+        "marketMetadata": {
+          "slug": "crossd-e05c91ddcd5a66f6",
+          "icon": "",
+          "title": "",
+          "outcome": "",
+          "eventSlug": "",
+          "eventId": ""
+        },
+        "state": "ORDER_STATE_FILLED",
+        "commissionNotionalTotalCollected": {
+          "value": "0.8400",
+          "currency": "USD"
+        },
+        "commissionsBasisPoints": "0",
+        "makerCommissionsBasisPoints": "0",
+        "avgPx": {
+          "value": "0.1050",
+          "currency": "USD"
+        },
+        "cashOrderQty": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "insertTime": "2026-11-06T22:08:05.410413650Z",
+        "createTime": "2026-11-06T22:08:05.408082445Z",
+        "outcomeSide": "OUTCOME_SIDE_YES",
+        "action": "ORDER_ACTION_BUY",
+        "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_UNDEFINED",
+        "lastTransactTime": "2026-11-06T22:08:05.410413650Z",
+        "estimatedAmount": null,
+        "principal": null,
+        "estimatedCommission": null
+      },
+      "passive": {
+        "id": "DJEZ1Y5G144P",
+        "marketSlug": "crossd-e05c91ddcd5a66f6",
+        "side": "ORDER_SIDE_SELL",
+        "type": "ORDER_TYPE_LIMIT",
+        "price": {
+          "value": "0.105",
+          "currency": "USD"
+        },
+        "quantity": 68.19,
+        "cumQuantity": 68.19,
+        "leavesQuantity": 0,
+        "tif": "TIME_IN_FORCE_GOOD_TILL_DATE",
+        "goodTillTime": "2026-11-06T22:08:10.364698726Z",
+        "intent": "ORDER_INTENT_SELL_LONG",
+        "marketMetadata": {
+          "slug": "crossd-e05c91ddcd5a66f6",
+          "icon": "",
+          "title": "",
+          "outcome": "",
+          "eventSlug": "",
+          "eventId": ""
+        },
+        "state": "ORDER_STATE_FILLED",
+        "commissionNotionalTotalCollected": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "commissionsBasisPoints": "0",
+        "makerCommissionsBasisPoints": "0",
+        "avgPx": {
+          "value": "0.1050",
+          "currency": "USD"
+        },
+        "cashOrderQty": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "insertTime": "2026-11-06T22:08:05.402422975Z",
+        "createTime": "2026-11-06T22:08:05.399879465Z",
+        "outcomeSide": "OUTCOME_SIDE_YES",
+        "action": "ORDER_ACTION_SELL",
+        "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_UNDEFINED",
+        "lastTransactTime": "2026-11-06T22:08:05.410413650Z",
+        "estimatedAmount": null,
+        "principal": null,
+        "estimatedCommission": null
+      },
+      "reportingCounterparty": "ORDER_SIDE_UNDEFINED",
+      "createTradeDate": "2026-11-07T00:00:00Z",
+      "updateTradeDate": "2026-11-07T00:00:00Z",
+      "tradeLinkId": "DJEZ1YB013Y9",
+      "isAggressor": true,
+      "qtyDecimal": "68.1900",
+      "comboLegDetails": [
+        {
+          "slug": "aec-cbb-umass-boscol-2026-11-06",
+          "icon": "",
+          "title": "UMass vs. Boston College",
+          "outcome": "Minutemen",
+          "eventSlug": "cbb-umass-boscol-2026-11-06",
+          "teamId": 1714,
+          "team": {
+            "id": 1714,
+            "name": "UMass",
+            "abbreviation": "umass",
+            "league": "cbb",
+            "record": "17-16",
+            "logo": "",
+            "alias": "Minutemen",
+            "safeName": "UMass",
+            "colorPrimary": "#881C1C",
+            "providerId": 55,
+            "ordering": "away",
+            "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_L%40320x320.png",
+            "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_R%40320x320.png",
+            "displayAbbreviation": "UMASS",
+            "conference": "Mid-American",
+            "providerIds": [
+              {
+                "provider": "PROVIDER_SPORTSDATAIO",
+                "providerId": "55"
+              },
+              {
+                "provider": "PROVIDER_SPORTRADAR",
+                "providerId": "88104678-e53b-43b3-82f7-efb3a11cedb9"
+              },
+              {
+                "provider": "PROVIDER_OPTICODDS",
+                "providerId": "929E0919EF1C"
+              }
+            ],
+            "longIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_L%40320x320.png",
+            "shortIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_R%40320x320.png",
+            "color": {
+              "light": "#6D0009",
+              "dark": "#A8390B"
+            },
+            "imageDisplayType": "IMAGE_DISPLAY_TYPE_LOGO"
+          },
+          "eventId": "202992",
+          "outcomeSide": "OUTCOME_SIDE_YES",
+          "eventGroupTitle": "CBB",
+          "eventStartTime": "2026-11-06T21:00:00Z",
+          "live": false,
+          "indicativePrice": {
+            "value": "0.0100",
+            "currency": "USD"
+          },
+          "settlement": {
+            "settlementPrice": {
+              "value": "0.0000",
+              "currency": "USD"
+            },
+            "settlementSetTime": "2026-11-06T23:14:07.184912545Z"
+          },
+          "state": "COMBO_LEG_STATE_LOST",
+          "pick": "",
+          "label": "",
+          "showNoBadge": false
+        },
+        {
+          "slug": "aec-testcr-afg-zim-2026-11-05",
+          "icon": "",
+          "title": "Afghanistan vs. Zimbabwe",
+          "outcome": "Afghanistan",
+          "eventSlug": "testcr-afg-zim-2026-11-05",
+          "teamId": 39755,
+          "team": {
+            "id": 39755,
+            "name": "Afghanistan",
+            "abbreviation": "afg",
+            "league": "testcr",
+            "record": "",
+            "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/AFG.png",
+            "alias": "Afghanistan",
+            "safeName": "Afghanistan",
+            "colorPrimary": "#000000",
+            "ordering": "home",
+            "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/AFG.png",
+            "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/AFG.png",
+            "displayAbbreviation": "AFG",
+            "providerIds": [
+              {
+                "provider": "PROVIDER_ODDSPAPI",
+                "providerId": "142688"
+              }
+            ],
+            "longIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/AFG.png",
+            "shortIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/AFG.png",
+            "color": {
+              "light": "#000000",
+              "dark": "#606060"
+            },
+            "imageDisplayType": "IMAGE_DISPLAY_TYPE_FLAG"
+          },
+          "eventId": "225452",
+          "outcomeSide": "OUTCOME_SIDE_YES",
+          "eventGroupTitle": "Test Intl",
+          "eventStartTime": "2026-11-05T06:00:00Z",
+          "live": false,
+          "indicativePrice": {
+            "value": "0.5100",
+            "currency": "USD"
+          },
+          "settlement": {
+            "settlementPrice": {
+              "value": "0.5000",
+              "currency": "USD"
+            },
+            "settlementSetTime": "2026-11-09T14:42:37.752733590Z"
+          },
+          "state": "COMBO_LEG_STATE_INDETERMINATE",
+          "pick": "",
+          "label": "",
+          "showNoBadge": false
+        },
+        {
+          "slug": "aec-utr-canege-globre-2026-11-02",
+          "icon": "",
+          "title": "Umit Ege Cankus vs. Brett Gloria",
+          "outcome": "Cankus, Umit Ege",
+          "eventSlug": "utr-canege-globre-2026-11-02",
+          "teamId": 43730,
+          "team": {
+            "id": 43730,
+            "name": "Cankus, Umit Ege",
+            "abbreviation": "canege",
+            "league": "utr",
+            "record": "",
+            "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/TUR.png",
+            "alias": "Cankus, Umit Ege",
+            "safeName": "Cankus, Umit Ege",
+            "colorPrimary": "#E30A17",
+            "ordering": "home",
+            "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/TUR.png",
+            "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/TUR.png",
+            "displayAbbreviation": "Cankus",
+            "providerIds": [
+              {
+                "provider": "PROVIDER_SPORTRADAR",
+                "providerId": "sr:competitor:291032"
+              }
+            ],
+            "longIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/TUR.png",
+            "shortIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/TUR.png",
+            "color": {
+              "light": "#EC2122",
+              "dark": "#E30A17"
+            },
+            "imageDisplayType": "IMAGE_DISPLAY_TYPE_FLAG"
+          },
+          "eventId": "213938",
+          "outcomeSide": "OUTCOME_SIDE_YES",
+          "eventGroupTitle": "UTR",
+          "eventStartTime": "2026-11-06T19:30:00Z",
+          "live": false,
+          "indicativePrice": {
+            "value": "0.9900",
+            "currency": "USD"
+          },
+          "settlement": {
+            "settlementPrice": {
+              "value": "1.0000",
+              "currency": "USD"
+            },
+            "settlementSetTime": "2026-11-06T22:43:31.980410984Z"
+          },
+          "state": "COMBO_LEG_STATE_WON",
+          "pick": "",
+          "label": "",
+          "showNoBadge": false
+        }
+      ]
+    }
+  },
+  {
+    "type": "ACTIVITY_TYPE_TRADE",
+    "trade": {
+      "id": "DJEYS4V013YG",
+      "aggressorExecution": {
+        "id": "DJEYS4V013YH",
+        "order": {
+          "id": "DJEYS4TG14EX",
+          "marketSlug": "aec-cbb-umass-boscol-2026-11-06",
+          "side": "ORDER_SIDE_BUY",
+          "type": "ORDER_TYPE_LIMIT",
+          "price": {
+            "value": "0.43",
+            "currency": "USD"
+          },
+          "quantity": 14.24,
+          "cumQuantity": 14.24,
+          "leavesQuantity": 0,
+          "tif": "TIME_IN_FORCE_DAY",
+          "goodTillTime": null,
+          "intent": "ORDER_INTENT_BUY_LONG",
+          "marketMetadata": {
+            "slug": "aec-cbb-umass-boscol-2026-11-06",
+            "icon": "",
+            "title": "UMass vs. Boston College",
+            "outcome": "Minutemen",
+            "eventSlug": "cbb-umass-boscol-2026-11-06",
+            "teamId": 1714,
+            "team": {
+              "id": 1714,
+              "name": "UMass",
+              "abbreviation": "umass",
+              "league": "cbb",
+              "record": "17-16",
+              "logo": "",
+              "alias": "Minutemen",
+              "safeName": "UMass",
+              "colorPrimary": "#881C1C",
+              "providerId": 55,
+              "ordering": "away",
+              "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_L%40320x320.png",
+              "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_R%40320x320.png",
+              "displayAbbreviation": "UMASS",
+              "conference": "Mid-American",
+              "providerIds": [
+                {
+                  "provider": "PROVIDER_SPORTSDATAIO",
+                  "providerId": "55"
+                },
+                {
+                  "provider": "PROVIDER_SPORTRADAR",
+                  "providerId": "88104678-e53b-43b3-82f7-efb3a11cedb9"
+                },
+                {
+                  "provider": "PROVIDER_OPTICODDS",
+                  "providerId": "929E0919EF1C"
+                }
+              ],
+              "color": {
+                "light": "#881C1C",
+                "dark": "#881C1C"
+              }
+            },
+            "eventId": "202992"
+          },
+          "state": "ORDER_STATE_FILLED",
+          "commissionNotionalTotalCollected": {
+            "value": "0.2200",
+            "currency": "USD"
+          },
+          "commissionsBasisPoints": "0",
+          "makerCommissionsBasisPoints": "0",
+          "avgPx": {
+            "value": "0.3300",
+            "currency": "USD"
+          },
+          "cashOrderQty": {
+            "value": "4.6992",
+            "currency": "USD"
+          },
+          "insertTime": "2026-11-06T22:07:29.388128242Z",
+          "createTime": "2026-11-06T22:07:29.386982736Z",
+          "outcomeSide": "OUTCOME_SIDE_YES",
+          "action": "ORDER_ACTION_BUY",
+          "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_MANUAL",
+          "lastTransactTime": "2026-11-06T22:07:29.388128242Z",
+          "estimatedAmount": null,
+          "principal": null,
+          "estimatedCommission": null
+        },
+        "lastShares": "14.2400",
+        "lastPx": {
+          "value": "0.3300",
+          "currency": "USD"
+        },
+        "type": "EXECUTION_TYPE_FILL",
+        "text": "",
+        "orderRejectReason": "ORD_REJECT_REASON_EXCHANGE_OPTION",
+        "transactTime": "2026-11-06T22:07:29.388128242Z",
+        "legPrices": [],
+        "tradeId": "DJEYS4V013YG",
+        "aggressor": true,
+        "commissionNotionalCollected": {
+          "value": "0.2200",
+          "currency": "USD"
+        },
+        "unsolicitedCancelReason": "UNSOLICITED_CXL_REASON_UNDEFINED",
+        "traceId": "",
+        "commissionSpreadPx": {
+          "value": "0.3300",
+          "currency": "USD"
+        },
+        "transactTradeDate": "2026-11-07T00:00:00Z"
+      },
+      "passiveExecution": {
+        "id": "DJEYS4V013YJ",
+        "order": {
+          "id": "DJEYP6BG342E",
+          "marketSlug": "aec-cbb-umass-boscol-2026-11-06",
+          "side": "ORDER_SIDE_SELL",
+          "type": "ORDER_TYPE_LIMIT",
+          "price": {
+            "value": "0.33",
+            "currency": "USD"
+          },
+          "quantity": 120,
+          "cumQuantity": 14.24,
+          "leavesQuantity": 105.76,
+          "tif": "TIME_IN_FORCE_GOOD_TILL_CANCEL",
+          "goodTillTime": null,
+          "intent": "ORDER_INTENT_UNDEFINED",
+          "marketMetadata": {
+            "slug": "aec-cbb-umass-boscol-2026-11-06",
+            "icon": "",
+            "title": "UMass vs. Boston College",
+            "outcome": "Eagles",
+            "eventSlug": "cbb-umass-boscol-2026-11-06",
+            "teamId": 1694,
+            "team": {
+              "id": 1694,
+              "name": "Boston College",
+              "abbreviation": "boscol",
+              "league": "cbb",
+              "record": "11-20",
+              "logo": "",
+              "alias": "Eagles",
+              "safeName": "Boston College",
+              "colorPrimary": "#8B2332",
+              "providerId": 35,
+              "ordering": "away",
+              "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_BOSCOL_L%40320x320.png",
+              "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_BOSCOL_R%40320x320.png",
+              "displayAbbreviation": "BC",
+              "conference": "Atlantic Coast",
+              "providerIds": [
+                {
+                  "provider": "PROVIDER_SPORTSDATAIO",
+                  "providerId": "35"
+                },
+                {
+                  "provider": "PROVIDER_SPORTRADAR",
+                  "providerId": "4b3ff02c-e0ba-435b-a565-6075bc491684"
+                },
+                {
+                  "provider": "PROVIDER_OPTICODDS",
+                  "providerId": "5B760D645796"
+                }
+              ],
+              "color": {
+                "light": "#8B2332",
+                "dark": "#8B2332"
+              }
+            },
+            "eventId": "202992"
+          },
+          "state": "ORDER_STATE_PARTIALLY_FILLED",
+          "commissionNotionalTotalCollected": {
+            "value": "-0.0900",
+            "currency": "USD"
+          },
+          "commissionsBasisPoints": "0",
+          "makerCommissionsBasisPoints": "0",
+          "avgPx": {
+            "value": "0.3300",
+            "currency": "USD"
+          },
+          "cashOrderQty": {
+            "value": "0.0000",
+            "currency": "USD"
+          },
+          "insertTime": "2026-11-06T22:07:25.521736865Z",
+          "createTime": "2026-11-06T22:07:17.294777685Z",
+          "outcomeSide": "OUTCOME_SIDE_UNSPECIFIED",
+          "action": "ORDER_ACTION_UNSPECIFIED",
+          "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_UNDEFINED",
+          "lastTransactTime": "2026-11-06T22:07:29.388128242Z",
+          "estimatedAmount": null,
+          "principal": null,
+          "estimatedCommission": null
+        },
+        "lastShares": "14.2400",
+        "lastPx": {
+          "value": "0.3300",
+          "currency": "USD"
+        },
+        "type": "EXECUTION_TYPE_PARTIAL_FILL",
+        "text": "",
+        "orderRejectReason": "ORD_REJECT_REASON_EXCHANGE_OPTION",
+        "transactTime": "2026-11-06T22:07:29.388128242Z",
+        "legPrices": [],
+        "tradeId": "DJEYS4V013YG",
+        "aggressor": false,
+        "commissionNotionalCollected": {
+          "value": "-0.0900",
+          "currency": "USD"
+        },
+        "unsolicitedCancelReason": "UNSOLICITED_CXL_REASON_UNDEFINED",
+        "traceId": "",
+        "commissionSpreadPx": {
+          "value": "0.6700",
+          "currency": "USD"
+        },
+        "transactTradeDate": "2026-11-07T00:00:00Z"
+      },
+      "marketSlug": "aec-cbb-umass-boscol-2026-11-06",
+      "state": "TRADE_STATE_NEW",
+      "createTime": "2026-11-06T22:07:29.388128242Z",
+      "updateTime": "2026-11-06T22:07:29.388128242Z",
+      "price": {
+        "value": "0.3300",
+        "currency": "USD"
+      },
+      "qty": "14",
+      "cost": {
+        "value": "4.9192",
+        "currency": "USD"
+      },
+      "aggressor": {
+        "id": "DJEYS4TG14EX",
+        "marketSlug": "aec-cbb-umass-boscol-2026-11-06",
+        "side": "ORDER_SIDE_BUY",
+        "type": "ORDER_TYPE_LIMIT",
+        "price": {
+          "value": "0.43",
+          "currency": "USD"
+        },
+        "quantity": 14.24,
+        "cumQuantity": 14.24,
+        "leavesQuantity": 0,
+        "tif": "TIME_IN_FORCE_DAY",
+        "goodTillTime": null,
+        "intent": "ORDER_INTENT_BUY_LONG",
+        "marketMetadata": {
+          "slug": "aec-cbb-umass-boscol-2026-11-06",
+          "icon": "",
+          "title": "UMass vs. Boston College",
+          "outcome": "Minutemen",
+          "eventSlug": "cbb-umass-boscol-2026-11-06",
+          "teamId": 1714,
+          "team": {
+            "id": 1714,
+            "name": "UMass",
+            "abbreviation": "umass",
+            "league": "cbb",
+            "record": "17-16",
+            "logo": "",
+            "alias": "Minutemen",
+            "safeName": "UMass",
+            "colorPrimary": "#881C1C",
+            "providerId": 55,
+            "ordering": "away",
+            "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_L%40320x320.png",
+            "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_R%40320x320.png",
+            "displayAbbreviation": "UMASS",
+            "conference": "Mid-American",
+            "providerIds": [
+              {
+                "provider": "PROVIDER_SPORTSDATAIO",
+                "providerId": "55"
+              },
+              {
+                "provider": "PROVIDER_SPORTRADAR",
+                "providerId": "88104678-e53b-43b3-82f7-efb3a11cedb9"
+              },
+              {
+                "provider": "PROVIDER_OPTICODDS",
+                "providerId": "929E0919EF1C"
+              }
+            ],
+            "color": {
+              "light": "#881C1C",
+              "dark": "#881C1C"
+            }
+          },
+          "eventId": "202992"
+        },
+        "state": "ORDER_STATE_FILLED",
+        "commissionNotionalTotalCollected": {
+          "value": "0.2200",
+          "currency": "USD"
+        },
+        "commissionsBasisPoints": "0",
+        "makerCommissionsBasisPoints": "0",
+        "avgPx": {
+          "value": "0.3300",
+          "currency": "USD"
+        },
+        "cashOrderQty": {
+          "value": "4.6992",
+          "currency": "USD"
+        },
+        "insertTime": "2026-11-06T22:07:29.388128242Z",
+        "createTime": "2026-11-06T22:07:29.386982736Z",
+        "outcomeSide": "OUTCOME_SIDE_YES",
+        "action": "ORDER_ACTION_BUY",
+        "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_MANUAL",
+        "lastTransactTime": "2026-11-06T22:07:29.388128242Z",
+        "estimatedAmount": null,
+        "principal": null,
+        "estimatedCommission": null
+      },
+      "passive": {
+        "id": "DJEYP6BG342E",
+        "marketSlug": "aec-cbb-umass-boscol-2026-11-06",
+        "side": "ORDER_SIDE_SELL",
+        "type": "ORDER_TYPE_LIMIT",
+        "price": {
+          "value": "0.33",
+          "currency": "USD"
+        },
+        "quantity": 120,
+        "cumQuantity": 14.24,
+        "leavesQuantity": 105.76,
+        "tif": "TIME_IN_FORCE_GOOD_TILL_CANCEL",
+        "goodTillTime": null,
+        "intent": "ORDER_INTENT_UNDEFINED",
+        "marketMetadata": {
+          "slug": "aec-cbb-umass-boscol-2026-11-06",
+          "icon": "",
+          "title": "UMass vs. Boston College",
+          "outcome": "Eagles",
+          "eventSlug": "cbb-umass-boscol-2026-11-06",
+          "teamId": 1694,
+          "team": {
+            "id": 1694,
+            "name": "Boston College",
+            "abbreviation": "boscol",
+            "league": "cbb",
+            "record": "11-20",
+            "logo": "",
+            "alias": "Eagles",
+            "safeName": "Boston College",
+            "colorPrimary": "#8B2332",
+            "providerId": 35,
+            "ordering": "away",
+            "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_BOSCOL_L%40320x320.png",
+            "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_BOSCOL_R%40320x320.png",
+            "displayAbbreviation": "BC",
+            "conference": "Atlantic Coast",
+            "providerIds": [
+              {
+                "provider": "PROVIDER_SPORTSDATAIO",
+                "providerId": "35"
+              },
+              {
+                "provider": "PROVIDER_SPORTRADAR",
+                "providerId": "4b3ff02c-e0ba-435b-a565-6075bc491684"
+              },
+              {
+                "provider": "PROVIDER_OPTICODDS",
+                "providerId": "5B760D645796"
+              }
+            ],
+            "color": {
+              "light": "#8B2332",
+              "dark": "#8B2332"
+            }
+          },
+          "eventId": "202992"
+        },
+        "state": "ORDER_STATE_PARTIALLY_FILLED",
+        "commissionNotionalTotalCollected": {
+          "value": "-0.0900",
+          "currency": "USD"
+        },
+        "commissionsBasisPoints": "0",
+        "makerCommissionsBasisPoints": "0",
+        "avgPx": {
+          "value": "0.3300",
+          "currency": "USD"
+        },
+        "cashOrderQty": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "insertTime": "2026-11-06T22:07:25.521736865Z",
+        "createTime": "2026-11-06T22:07:17.294777685Z",
+        "outcomeSide": "OUTCOME_SIDE_UNSPECIFIED",
+        "action": "ORDER_ACTION_UNSPECIFIED",
+        "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_UNDEFINED",
+        "lastTransactTime": "2026-11-06T22:07:29.388128242Z",
+        "estimatedAmount": null,
+        "principal": null,
+        "estimatedCommission": null
+      },
+      "reportingCounterparty": "ORDER_SIDE_UNDEFINED",
+      "createTradeDate": "2026-11-07T00:00:00Z",
+      "updateTradeDate": "2026-11-07T00:00:00Z",
+      "tradeLinkId": "DJEYS51G13Y9",
+      "isAggressor": true,
+      "market": {
+        "id": "1913818",
+        "question": "Who will win in the upcoming basketball event UMass vs Boston College scheduled for November 6, 2026 at 4:00PM ET?",
+        "slug": "aec-cbb-umass-boscol-2026-11-06",
+        "endDate": "2026-11-06T23:14:01Z",
+        "category": "sports",
+        "startDate": "2026-10-28T18:34:07Z",
+        "description": "This market will settle to the winner of the UMass vs Boston College men's college basketball game scheduled for November 6, 2026 at 4:00PM ET (as of the listing of the event's first instrument). Overtime is included if played. If the game is delayed, postponed, suspended or otherwise rescheduled to a date and time not within two days of the originally scheduled date and time, the market will settle to the last fair market price. Outcome sourced from the relevant governing body.",
+        "active": false,
+        "marketType": "moneyline",
+        "closed": true,
+        "createdAt": "2026-10-28T18:34:07Z",
+        "updatedAt": "2026-11-08T23:49:07Z",
+        "archived": false,
+        "orderPriceMinTickSize": 0.01,
+        "gameStartTime": "2026-11-06T21:00:00Z",
+        "manualActivation": false,
+        "sportsMarketType": "basketball_team_full_game_winner",
+        "marketSides": [
+          {
+            "id": "3827098",
+            "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+            "identifier": "aec-cbb-umass-boscol-2026-11-06",
+            "createdAt": "2026-10-28T18:34:07Z",
+            "updatedAt": "2026-10-28T18:34:07Z",
+            "description": "Minutemen",
+            "price": "0",
+            "marketId": 1913818,
+            "long": true,
+            "teamId": 1714,
+            "team": {
+              "id": 1714,
+              "name": "UMass",
+              "abbreviation": "umass",
+              "league": "cbb",
+              "record": "17-16",
+              "logo": "",
+              "alias": "Minutemen",
+              "safeName": "UMass",
+              "colorPrimary": "#881C1C",
+              "providerId": 55,
+              "ordering": "away",
+              "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_L%40320x320.png",
+              "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_R%40320x320.png",
+              "displayAbbreviation": "UMASS",
+              "conference": "Mid-American",
+              "providerIds": [
+                {
+                  "provider": "PROVIDER_SPORTSDATAIO",
+                  "providerId": "55"
+                },
+                {
+                  "provider": "PROVIDER_SPORTRADAR",
+                  "providerId": "88104678-e53b-43b3-82f7-efb3a11cedb9"
+                },
+                {
+                  "provider": "PROVIDER_OPTICODDS",
+                  "providerId": "929E0919EF1C"
+                }
+              ],
+              "longIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_L%40320x320.png",
+              "shortIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_UMASS_R%40320x320.png",
+              "color": {
+                "light": "#881C1C",
+                "dark": "#881C1C"
+              },
+              "imageDisplayType": "IMAGE_DISPLAY_TYPE_LOGO"
+            },
+            "tradable": true
+          },
+          {
+            "id": "3827099",
+            "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+            "identifier": "aec-cbb-umass-boscol-2026-11-06",
+            "createdAt": "2026-10-28T18:34:07Z",
+            "updatedAt": "2026-10-28T18:34:07Z",
+            "description": "Eagles",
+            "price": "1",
+            "marketId": 1913818,
+            "long": false,
+            "teamId": 1694,
+            "team": {
+              "id": 1694,
+              "name": "Boston College",
+              "abbreviation": "boscol",
+              "league": "cbb",
+              "record": "11-20",
+              "logo": "",
+              "alias": "Eagles",
+              "safeName": "Boston College",
+              "colorPrimary": "#8B2332",
+              "providerId": 35,
+              "ordering": "home",
+              "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_BOSCOL_L%40320x320.png",
+              "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_BOSCOL_R%40320x320.png",
+              "displayAbbreviation": "BC",
+              "conference": "Atlantic Coast",
+              "providerIds": [
+                {
+                  "provider": "PROVIDER_SPORTSDATAIO",
+                  "providerId": "35"
+                },
+                {
+                  "provider": "PROVIDER_SPORTRADAR",
+                  "providerId": "4b3ff02c-e0ba-435b-a565-6075bc491684"
+                },
+                {
+                  "provider": "PROVIDER_OPTICODDS",
+                  "providerId": "5B760D645796"
+                }
+              ],
+              "longIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_BOSCOL_L%40320x320.png",
+              "shortIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-logos/CBB/Polymarket_NCAAMB_BOSCOL_R%40320x320.png",
+              "color": {
+                "light": "#8B2332",
+                "dark": "#8B2332"
+              },
+              "imageDisplayType": "IMAGE_DISPLAY_TYPE_LOGO"
+            },
+            "tradable": true
+          }
+        ],
+        "outcomes": "[\"Minutemen\",\"Eagles\"]",
+        "outcomePrices": "[\"0\",\"1\"]",
+        "ep3Status": "EXPIRED",
+        "status": "MARKET_STATUS_RESOLVED",
+        "assetPriceTerms": null,
+        "sportsMarketTypeV2": "SPORTS_MARKET_TYPE_MONEYLINE",
+        "hidden": false,
+        "tags": [],
+        "feeCoefficient": 0.095,
+        "ep3SyncedAt": "2026-11-08T23:49:07Z",
+        "minimumTradeQty": 0.01,
+        "comboEnabled": true,
+        "politics": null,
+        "eventSubcategory": "BASKETBALL",
+        "singlesRfqConfig": {
+          "enabled": false,
+          "midpointDeviation": 0,
+          "minOrderValueUsd": 0,
+          "maxQuoteAgeSeconds": 0,
+          "quoteWindows": [],
+          "ruleName": "default",
+          "version": "singles-half-markets-v2"
+        }
+      },
+      "qtyDecimal": "14.2400",
+      "comboLegDetails": []
+    }
+  },
+  {
+    "type": "ACTIVITY_TYPE_TRADE",
+    "trade": {
+      "id": "DJEYQNQ013YJ",
+      "aggressorExecution": {
+        "id": "DJEYQNQ033YF",
+        "order": {
+          "id": "DJEYQNPG14ET",
+          "marketSlug": "aec-wta-alitub-biaand-2026-11-06",
+          "side": "ORDER_SIDE_SELL",
+          "type": "ORDER_TYPE_LIMIT",
+          "price": {
+            "value": "0.01",
+            "currency": "USD"
+          },
+          "quantity": 5.24,
+          "cumQuantity": 5.24,
+          "leavesQuantity": 0,
+          "tif": "TIME_IN_FORCE_DAY",
+          "goodTillTime": null,
+          "intent": "ORDER_INTENT_BUY_SHORT",
+          "marketMetadata": {
+            "slug": "aec-wta-alitub-biaand-2026-11-06",
+            "icon": "",
+            "title": "Alice Tubello vs. Bianca Andreescu",
+            "outcome": "Bianca Andreescu",
+            "eventSlug": "wta-alitub-biaand-2026-11-06",
+            "teamId": 4655,
+            "team": {
+              "id": 4655,
+              "name": "Bianca Andreescu",
+              "abbreviation": "biaand",
+              "league": "wta",
+              "record": "",
+              "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+              "alias": "Bianca Andreescu",
+              "safeName": "Bianca Andreescu",
+              "colorPrimary": "#EF0000",
+              "ordering": "home",
+              "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+              "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+              "displayAbbreviation": "Andreescu",
+              "ranking": "77",
+              "providerIds": [
+                {
+                  "provider": "PROVIDER_ENETPULSE",
+                  "providerId": "664250"
+                },
+                {
+                  "provider": "PROVIDER_SPORTRADAR",
+                  "providerId": "sr:competitor:217912"
+                }
+              ],
+              "color": {
+                "light": "#EF0000",
+                "dark": "#EF0000"
+              }
+            },
+            "eventId": "235996"
+          },
+          "state": "ORDER_STATE_FILLED",
+          "commissionNotionalTotalCollected": {
+            "value": "0.0200",
+            "currency": "USD"
+          },
+          "commissionsBasisPoints": "0",
+          "makerCommissionsBasisPoints": "0",
+          "avgPx": {
+            "value": "0.0500",
+            "currency": "USD"
+          },
+          "cashOrderQty": {
+            "value": "4.9780",
+            "currency": "USD"
+          },
+          "insertTime": "2026-11-06T22:07:23.356205439Z",
+          "createTime": "2026-11-06T22:07:23.354854013Z",
+          "outcomeSide": "OUTCOME_SIDE_NO",
+          "action": "ORDER_ACTION_BUY",
+          "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_MANUAL",
+          "lastTransactTime": "2026-11-06T22:07:23.356205439Z",
+          "estimatedAmount": null,
+          "principal": null,
+          "estimatedCommission": null
+        },
+        "lastShares": "5.2400",
+        "lastPx": {
+          "value": "0.0500",
+          "currency": "USD"
+        },
+        "type": "EXECUTION_TYPE_FILL",
+        "text": "",
+        "orderRejectReason": "ORD_REJECT_REASON_EXCHANGE_OPTION",
+        "transactTime": "2026-11-06T22:07:23.356205439Z",
+        "legPrices": [],
+        "tradeId": "DJEYQNQ013YJ",
+        "aggressor": true,
+        "commissionNotionalCollected": {
+          "value": "0.0200",
+          "currency": "USD"
+        },
+        "unsolicitedCancelReason": "UNSOLICITED_CXL_REASON_UNDEFINED",
+        "traceId": "",
+        "commissionSpreadPx": {
+          "value": "0.9500",
+          "currency": "USD"
+        },
+        "transactTradeDate": "2026-11-07T00:00:00Z"
+      },
+      "passiveExecution": {
+        "id": "DJEYQNQ033YG",
+        "order": {
+          "id": "DJEWFQEG13YB",
+          "marketSlug": "aec-wta-alitub-biaand-2026-11-06",
+          "side": "ORDER_SIDE_BUY",
+          "type": "ORDER_TYPE_LIMIT",
+          "price": {
+            "value": "0.05",
+            "currency": "USD"
+          },
+          "quantity": 99,
+          "cumQuantity": 53.03,
+          "leavesQuantity": 45.97,
+          "tif": "TIME_IN_FORCE_GOOD_TILL_CANCEL",
+          "goodTillTime": null,
+          "intent": "ORDER_INTENT_BUY_LONG",
+          "marketMetadata": {
+            "slug": "aec-wta-alitub-biaand-2026-11-06",
+            "icon": "",
+            "title": "Alice Tubello vs. Bianca Andreescu",
+            "outcome": "Alice Tubello",
+            "eventSlug": "wta-alitub-biaand-2026-11-06",
+            "teamId": 5383,
+            "team": {
+              "id": 5383,
+              "name": "Alice Tubello",
+              "abbreviation": "alitub",
+              "league": "wta",
+              "record": "",
+              "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+              "alias": "Alice Tubello",
+              "safeName": "Alice Tubello",
+              "colorPrimary": "#002395",
+              "ordering": "home",
+              "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+              "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+              "displayAbbreviation": "Tubello",
+              "ranking": "139",
+              "providerIds": [
+                {
+                  "provider": "PROVIDER_ENETPULSE",
+                  "providerId": "861961"
+                },
+                {
+                  "provider": "PROVIDER_SPORTRADAR",
+                  "providerId": "sr:competitor:227490"
+                }
+              ],
+              "color": {
+                "light": "#002395",
+                "dark": "#002395"
+              }
+            },
+            "eventId": "235996"
+          },
+          "state": "ORDER_STATE_PARTIALLY_FILLED",
+          "commissionNotionalTotalCollected": {
+            "value": "0.0000",
+            "currency": "USD"
+          },
+          "commissionsBasisPoints": "0",
+          "makerCommissionsBasisPoints": "0",
+          "avgPx": {
+            "value": "0.0500",
+            "currency": "USD"
+          },
+          "cashOrderQty": {
+            "value": "0.0000",
+            "currency": "USD"
+          },
+          "insertTime": "2026-11-06T22:02:28.667906863Z",
+          "createTime": "2026-11-06T22:02:28.666393413Z",
+          "outcomeSide": "OUTCOME_SIDE_YES",
+          "action": "ORDER_ACTION_BUY",
+          "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_MANUAL",
+          "lastTransactTime": "2026-11-06T22:07:23.356205439Z",
+          "estimatedAmount": null,
+          "principal": null,
+          "estimatedCommission": null
+        },
+        "lastShares": "5.2400",
+        "lastPx": {
+          "value": "0.0500",
+          "currency": "USD"
+        },
+        "type": "EXECUTION_TYPE_PARTIAL_FILL",
+        "text": "",
+        "orderRejectReason": "ORD_REJECT_REASON_EXCHANGE_OPTION",
+        "transactTime": "2026-11-06T22:07:23.356205439Z",
+        "legPrices": [],
+        "tradeId": "DJEYQNQ013YJ",
+        "aggressor": false,
+        "commissionNotionalCollected": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "unsolicitedCancelReason": "UNSOLICITED_CXL_REASON_UNDEFINED",
+        "traceId": "",
+        "commissionSpreadPx": {
+          "value": "0.0500",
+          "currency": "USD"
+        },
+        "transactTradeDate": "2026-11-07T00:00:00Z"
+      },
+      "marketSlug": "aec-wta-alitub-biaand-2026-11-06",
+      "state": "TRADE_STATE_NEW",
+      "createTime": "2026-11-06T22:07:23.356205439Z",
+      "updateTime": "2026-11-06T22:07:23.356205439Z",
+      "price": {
+        "value": "0.0500",
+        "currency": "USD"
+      },
+      "qty": "5",
+      "cost": {
+        "value": "4.998",
+        "currency": "USD"
+      },
+      "aggressor": {
+        "id": "DJEYQNPG14ET",
+        "marketSlug": "aec-wta-alitub-biaand-2026-11-06",
+        "side": "ORDER_SIDE_SELL",
+        "type": "ORDER_TYPE_LIMIT",
+        "price": {
+          "value": "0.01",
+          "currency": "USD"
+        },
+        "quantity": 5.24,
+        "cumQuantity": 5.24,
+        "leavesQuantity": 0,
+        "tif": "TIME_IN_FORCE_DAY",
+        "goodTillTime": null,
+        "intent": "ORDER_INTENT_BUY_SHORT",
+        "marketMetadata": {
+          "slug": "aec-wta-alitub-biaand-2026-11-06",
+          "icon": "",
+          "title": "Alice Tubello vs. Bianca Andreescu",
+          "outcome": "Bianca Andreescu",
+          "eventSlug": "wta-alitub-biaand-2026-11-06",
+          "teamId": 4655,
+          "team": {
+            "id": 4655,
+            "name": "Bianca Andreescu",
+            "abbreviation": "biaand",
+            "league": "wta",
+            "record": "",
+            "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+            "alias": "Bianca Andreescu",
+            "safeName": "Bianca Andreescu",
+            "colorPrimary": "#EF0000",
+            "ordering": "home",
+            "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+            "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+            "displayAbbreviation": "Andreescu",
+            "ranking": "77",
+            "providerIds": [
+              {
+                "provider": "PROVIDER_ENETPULSE",
+                "providerId": "664250"
+              },
+              {
+                "provider": "PROVIDER_SPORTRADAR",
+                "providerId": "sr:competitor:217912"
+              }
+            ],
+            "color": {
+              "light": "#EF0000",
+              "dark": "#EF0000"
+            }
+          },
+          "eventId": "235996"
+        },
+        "state": "ORDER_STATE_FILLED",
+        "commissionNotionalTotalCollected": {
+          "value": "0.0200",
+          "currency": "USD"
+        },
+        "commissionsBasisPoints": "0",
+        "makerCommissionsBasisPoints": "0",
+        "avgPx": {
+          "value": "0.0500",
+          "currency": "USD"
+        },
+        "cashOrderQty": {
+          "value": "4.9780",
+          "currency": "USD"
+        },
+        "insertTime": "2026-11-06T22:07:23.356205439Z",
+        "createTime": "2026-11-06T22:07:23.354854013Z",
+        "outcomeSide": "OUTCOME_SIDE_NO",
+        "action": "ORDER_ACTION_BUY",
+        "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_MANUAL",
+        "lastTransactTime": "2026-11-06T22:07:23.356205439Z",
+        "estimatedAmount": null,
+        "principal": null,
+        "estimatedCommission": null
+      },
+      "passive": {
+        "id": "DJEWFQEG13YB",
+        "marketSlug": "aec-wta-alitub-biaand-2026-11-06",
+        "side": "ORDER_SIDE_BUY",
+        "type": "ORDER_TYPE_LIMIT",
+        "price": {
+          "value": "0.05",
+          "currency": "USD"
+        },
+        "quantity": 99,
+        "cumQuantity": 53.03,
+        "leavesQuantity": 45.97,
+        "tif": "TIME_IN_FORCE_GOOD_TILL_CANCEL",
+        "goodTillTime": null,
+        "intent": "ORDER_INTENT_BUY_LONG",
+        "marketMetadata": {
+          "slug": "aec-wta-alitub-biaand-2026-11-06",
+          "icon": "",
+          "title": "Alice Tubello vs. Bianca Andreescu",
+          "outcome": "Alice Tubello",
+          "eventSlug": "wta-alitub-biaand-2026-11-06",
+          "teamId": 5383,
+          "team": {
+            "id": 5383,
+            "name": "Alice Tubello",
+            "abbreviation": "alitub",
+            "league": "wta",
+            "record": "",
+            "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+            "alias": "Alice Tubello",
+            "safeName": "Alice Tubello",
+            "colorPrimary": "#002395",
+            "ordering": "home",
+            "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+            "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+            "displayAbbreviation": "Tubello",
+            "ranking": "139",
+            "providerIds": [
+              {
+                "provider": "PROVIDER_ENETPULSE",
+                "providerId": "861961"
+              },
+              {
+                "provider": "PROVIDER_SPORTRADAR",
+                "providerId": "sr:competitor:227490"
+              }
+            ],
+            "color": {
+              "light": "#002395",
+              "dark": "#002395"
+            }
+          },
+          "eventId": "235996"
+        },
+        "state": "ORDER_STATE_PARTIALLY_FILLED",
+        "commissionNotionalTotalCollected": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "commissionsBasisPoints": "0",
+        "makerCommissionsBasisPoints": "0",
+        "avgPx": {
+          "value": "0.0500",
+          "currency": "USD"
+        },
+        "cashOrderQty": {
+          "value": "0.0000",
+          "currency": "USD"
+        },
+        "insertTime": "2026-11-06T22:02:28.667906863Z",
+        "createTime": "2026-11-06T22:02:28.666393413Z",
+        "outcomeSide": "OUTCOME_SIDE_YES",
+        "action": "ORDER_ACTION_BUY",
+        "manualOrderIndicator": "MANUAL_ORDER_INDICATOR_MANUAL",
+        "lastTransactTime": "2026-11-06T22:07:23.356205439Z",
+        "estimatedAmount": null,
+        "principal": null,
+        "estimatedCommission": null
+      },
+      "reportingCounterparty": "ORDER_SIDE_UNDEFINED",
+      "createTradeDate": "2026-11-07T00:00:00Z",
+      "updateTradeDate": "2026-11-07T00:00:00Z",
+      "tradeLinkId": "DJEYQP0G13Y9",
+      "isAggressor": true,
+      "market": {
+        "id": "2216203",
+        "question": "Who will win in the upcoming wta event Alice Tubello vs Bianca Andreescu scheduled for November 6, 2026 at 4:00 PM UTC?",
+        "slug": "aec-wta-alitub-biaand-2026-11-06",
+        "endDate": "2026-11-07T15:18:32Z",
+        "category": "sports",
+        "startDate": "2026-11-06T00:15:19Z",
+        "description": "This market will settle to the winner of the Alice Tubello vs Bianca Andreescu WTA match scheduled for November 6, 2026 at 11:00AM ET (as of the listing of the event's first instrument). If the match does not begin due to a walkover, withdrawal, or cancellation, the market will settle to the last fair market price. If a player retires or is disqualified during the match, the market will settle to the official winner of the match. If the match is delayed, postponed, suspended or otherwise rescheduled to a date and time not within two days of the originally scheduled date and time, the market will settle to the last fair market price. Outcome sourced from WTA.",
+        "active": false,
+        "marketType": "moneyline",
+        "closed": true,
+        "createdAt": "2026-11-06T00:15:19Z",
+        "updatedAt": "2026-11-09T20:44:49Z",
+        "archived": false,
+        "orderPriceMinTickSize": 0.01,
+        "gameStartTime": "2026-11-06T20:10:00Z",
+        "manualActivation": false,
+        "sportsMarketType": "tennis_match_winner",
+        "marketSides": [
+          {
+            "id": "4431856",
+            "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+            "identifier": "aec-wta-alitub-biaand-2026-11-06",
+            "createdAt": "2026-11-06T00:15:19Z",
+            "updatedAt": "2026-11-06T00:15:19Z",
+            "description": "Alice Tubello",
+            "price": "0",
+            "marketId": 2216203,
+            "long": true,
+            "teamId": 5383,
+            "team": {
+              "id": 5383,
+              "name": "Alice Tubello",
+              "abbreviation": "alitub",
+              "league": "wta",
+              "record": "",
+              "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+              "alias": "Alice Tubello",
+              "safeName": "Alice Tubello",
+              "colorPrimary": "#002395",
+              "ordering": "home",
+              "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+              "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+              "displayAbbreviation": "Tubello",
+              "ranking": "139",
+              "providerIds": [
+                {
+                  "provider": "PROVIDER_ENETPULSE",
+                  "providerId": "861961"
+                },
+                {
+                  "provider": "PROVIDER_SPORTRADAR",
+                  "providerId": "sr:competitor:227490"
+                }
+              ],
+              "longIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+              "shortIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/FRA.png",
+              "color": {
+                "light": "#002395",
+                "dark": "#002395"
+              },
+              "imageDisplayType": "IMAGE_DISPLAY_TYPE_FLAG"
+            },
+            "tradable": true
+          },
+          {
+            "id": "4431857",
+            "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+            "identifier": "aec-wta-alitub-biaand-2026-11-06",
+            "createdAt": "2026-11-06T00:15:19Z",
+            "updatedAt": "2026-11-06T00:15:19Z",
+            "description": "Bianca Andreescu",
+            "price": "1",
+            "marketId": 2216203,
+            "long": false,
+            "teamId": 4655,
+            "team": {
+              "id": 4655,
+              "name": "Bianca Andreescu",
+              "abbreviation": "biaand",
+              "league": "wta",
+              "record": "",
+              "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+              "alias": "Bianca Andreescu",
+              "safeName": "Bianca Andreescu",
+              "colorPrimary": "#EF0000",
+              "ordering": "away",
+              "longIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+              "shortIcon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+              "displayAbbreviation": "Andreescu",
+              "ranking": "77",
+              "providerIds": [
+                {
+                  "provider": "PROVIDER_ENETPULSE",
+                  "providerId": "664250"
+                },
+                {
+                  "provider": "PROVIDER_SPORTRADAR",
+                  "providerId": "sr:competitor:217912"
+                }
+              ],
+              "longIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+              "shortIconDark": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-countries/CAN.png",
+              "color": {
+                "light": "#EF0000",
+                "dark": "#EF0000"
+              },
+              "imageDisplayType": "IMAGE_DISPLAY_TYPE_FLAG"
+            },
+            "tradable": true
+          }
+        ],
+        "outcomes": "[\"Alice Tubello\",\"Bianca Andreescu\"]",
+        "outcomePrices": "[\"0\",\"1\"]",
+        "ep3Status": "EXPIRED",
+        "status": "MARKET_STATUS_RESOLVED",
+        "assetPriceTerms": null,
+        "sportsMarketTypeV2": "SPORTS_MARKET_TYPE_MONEYLINE",
+        "hidden": false,
+        "tags": [],
+        "feeCoefficient": 0.095,
+        "ep3SyncedAt": "2026-11-09T20:44:49Z",
+        "minimumTradeQty": 0.01,
+        "comboEnabled": true,
+        "politics": null,
+        "eventSubcategory": "WTA"
+      },
+      "qtyDecimal": "5.2400",
+      "comboLegDetails": []
+    }
+  },
+  {
+    "type": "ACTIVITY_TYPE_REFERRAL_BONUS",
+    "accountBalanceChange": {
+      "transactionId": "DJEWQR40001P",
+      "status": "ACCOUNT_BALANCE_CHANGE_STATUS_COMPLETED",
+      "amount": {
+        "value": "25",
+        "currency": "USD"
+      },
+      "updateTime": "2026-11-06T23:14:19.178924776Z",
+      "paymentMethod": null,
+      "createTime": "2026-11-06T22:03:01.522069709Z",
+      "transactions": [
+        {
+          "transactionId": "DJEWQR40001P",
+          "status": "ACCOUNT_BALANCE_CHANGE_STATUS_COMPLETED",
+          "amount": {
+            "value": "25",
+            "currency": "USD"
+          },
+          "updateTime": "2026-11-06T23:14:19.178924776Z",
+          "paymentMethod": null,
+          "createTime": "2026-11-06T22:03:01.522069709Z",
+          "externalId": "",
+          "description": "",
+          "metadata": {
+            "incentive_type": "PROMOTION_DEPOSIT_BONUS"
+          },
+          "failureReason": "",
+          "failureCode": "",
+          "failureAction": null,
+          "paypal": null,
+          "reviewStatus": "TRANSACTION_REVIEW_STATUS_SKIPPED",
+          "cancelable": false,
+          "advancedAmount": null,
+          "transferReason": "TRANSFER_REASON_DEPOSIT_BONUS",
+          "promoCode": ""
+        }
+      ],
+      "externalId": "",
+      "description": "",
+      "metadata": {
+        "incentive_type": "PROMOTION_DEPOSIT_BONUS"
+      },
+      "failureReason": "",
+      "failureCode": "",
+      "failureAction": null,
+      "transferReason": "TRANSFER_REASON_DEPOSIT_BONUS",
+      "promoCode": ""
+    }
+  },
+  {
+    "type": "ACTIVITY_TYPE_ACCOUNT_DEPOSIT",
+    "accountBalanceChange": {
+      "transactionId": "DJEWPQ6G001P",
+      "status": "ACCOUNT_BALANCE_CHANGE_STATUS_COMPLETED",
+      "amount": {
+        "value": "10",
+        "currency": "USD"
+      },
+      "updateTime": "2026-11-09T17:19:28.294515441Z",
+      "paymentMethod": null,
+      "createTime": "2026-11-06T22:02:57.308420528Z",
+      "transactions": [
+        {
+          "transactionId": "DJEWPQ6G001P",
+          "status": "ACCOUNT_BALANCE_CHANGE_STATUS_COMPLETED",
+          "amount": {
+            "value": "10",
+            "currency": "USD"
+          },
+          "updateTime": "2026-11-09T17:19:28.294515441Z",
+          "paymentMethod": null,
+          "createTime": "2026-11-06T22:02:57.308420528Z",
+          "externalId": "pay_yrasxwab5siivflv52lgpd74ka",
+          "description": "",
+          "metadata": {},
+          "failureReason": "",
+          "failureCode": "",
+          "failureAction": null,
+          "paypal": null,
+          "reviewStatus": "TRANSACTION_REVIEW_STATUS_SKIPPED",
+          "cancelable": false,
+          "advancedAmount": {
+            "value": "10",
+            "currency": "USD"
+          },
+          "transferReason": "TRANSFER_REASON_UNSPECIFIED",
+          "promoCode": ""
+        }
+      ],
+      "externalId": "pay_yrasxwab5siivflv52lgpd74ka",
+      "description": "",
+      "metadata": {},
+      "failureReason": "",
+      "failureCode": "",
+      "failureAction": null,
+      "transferReason": "TRANSFER_REASON_UNSPECIFIED",
+      "promoCode": ""
+    }
+  }
+]
